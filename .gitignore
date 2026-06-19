@@ -1,0 +1,10 @@
+/config.inc.php
+/cache/
+/ojs-files/
+/ojs_atu_kz.sql
+*.log
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
