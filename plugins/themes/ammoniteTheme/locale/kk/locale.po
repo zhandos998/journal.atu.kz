@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: kk\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite тақырыбы"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Дания және Гренландияның Геологиялық қызметіне арналған, Health Sciences негізіндегі OJS тақырыбы. Health Sciences тақырыбының орнатылуын қажет етеді; әйтпесе бұл тақырып өз стильдерін, шаблондары мен hook-терін жүктемейді."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite тақырыбы Health Sciences тақырыбының орнатылуын қажет етеді. Ammonite тақырыбын белсендіру алдында Health Sciences тақырыбын орнатыңыз; әйтпесе оның стильдері мен шаблондары жүктелмейді."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Журнал жаңалықтары"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Жүктеп алу"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Бөлісу"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Соңғы шығарылым"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Т."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Осы шығарылымнан көбірек оқу"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Шығарылымды қарау"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Қаржыландыру"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Метрикалар"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Қолжазба жіберу"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Ақпарат"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Кітапханашылар"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Рецензенттер"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Редактор болыңыз"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Рецензент болыңыз"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Құпиялылық"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookie файлдары"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS таспасы"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Басты беттің бірінші санаты"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Басты бетте көрсетілетін мақалалардың бірінші (жоғарғы) санатын таңдаңыз"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Басты беттің екінші санаты"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Басты бетте көрсетілетін мақалалардың екінші санатын таңдаңыз"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Басты беттің үшінші санаты"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Басты бетте көрсетілетін мақалалардың үшінші санатын таңдаңыз"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Ешқайсысы"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Таңдаулы ішкі санаттар (тізім ретінде)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Санатты таңдаңыз (басты бетте тізім ретінде көрсетіледі)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Басты бет ақпарат блогының мазмұны"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Басты бет ақпарат блогының мазмұнын енгізіңіз (авторлар мен кітапханашыларға арналған ақпаратпен қатар көрсетіледі)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Басты бет ақпарат блогының атауы"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Басты бет ақпарат блогының атауын енгізіңіз"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Басты бет мақалалары"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Басты беттің әр санатында көрсетілетін мақалалардың санын енгізіңіз."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Төменгі колонтитулға арналған логотип"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Төменгі колонтитулдағы OJS логотипінің дәл үстінде көрсетілетін логотип файлын таңдаңыз"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "X әлеуметтік желісіне сілтеме"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "YouTube-қа сілтеме"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "LinkedIn-ге сілтеме"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Instagram-ға сілтеме"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Файлды таңдаңыз"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Төменгі колонтитул элементі 1 мәтіні"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Төменгі колонтитул сілтемелер тізімінде көрсетілетін Төменгі колонтитул элементі 1 үшін мәтінді енгізіңіз"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Төменгі колонтитул элементі 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Төменгі колонтитул элементі 1 үшін URL енгізіңіз (пайдаланушыны қайта бағыттайды)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Төменгі колонтитул элементі 2 мәтіні"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Төменгі колонтитул сілтемелер тізімінде көрсетілетін Төменгі колонтитул элементі 2 үшін мәтінді енгізіңіз."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Төменгі колонтитул элементі 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "Төменгі колонтитул элементі 2 (пайдаланушыны қайта бағыттайтын) URL."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Төменгі колонтитул элементі 3 мәтіні"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Төменгі колонтитул сілтемелер тізімінде көрсетілетін Төменгі колонтитул элементі 3 үшін мәтінді енгізіңіз."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Төменгі колонтитул элементі 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "Төменгі колонтитул элементі 3 (пайдаланушыны қайта бағыттайтын) URL."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Журнал жаңалықтары бөлімінің фон түсі"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Басты беттегі Журнал жаңалықтары бөлімінің фонын толтыру үшін түсті таңдаңыз."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Ақпарат бөлімінің фон түсі"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Басты беттегі Ақпарат бөлімінің фонын толтыру үшін түсті таңдаңыз."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Іздеу нәтижелері"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Шығарылым мұқабасы үшін әдепкі сурет"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Шығарылымның мұқабасы болмаған кезде мұқаба ретінде қолданылатын суретті таңдаңыз."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Мақала үшін әдепкі сурет"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Суреті жоқ мақалалар үшін қолданылатын суретті таңдаңыз."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Мақалада бірінші ішкі санатты көрсету үшін санат"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Аталық санатты таңдаңыз, жүйе осы санаттың мақалаға тағайындалған бірінші ішкі санатын көрсетеді."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Мақала бетінде бөлімді жасыру немесе көрсету"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Көрсету болса, мақаланың қону бетінде 'бөлім' деп аталатын бөлім пайда болады."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Мақала бетінде санаттар бөлімін жасыру немесе көрсету"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Көрсету болса, мақаланың қону бетінде 'санаттар' деп аталатын бөлім пайда болады."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Жасыру"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Көрсету"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Мақала суреті орнатылмаған."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Шығарылым мұқабасы жақында."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Архивтерімізден жарияланған мақалаларды табу үшін іздеу пішінін пайдаланыңыз."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Бірінші бет"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Алдыңғы бет"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Келесі бет"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Соңғы бет"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Төменгі колонтитул логотипі үшін балама мәтін."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Жоғарыда таңдалған төменгі колонтитул логотипі суреті үшін балама мәтін."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Төменгі колонтитулдағы клиент логотипі қайта бағыттауы тиіс сілтеме."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Төменгі колонтитул логотипі суреті қайта бағыттауы тиіс сілтеме."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Көрсетілетін мақала метадеректері."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Келесі метадеректердің қайсысы мақала бетінде пайда болатынын таңдаңыз."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Басты бетте мақалаларды көрсету үшін санаттар."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Басты бетте көрсетілетін мақала санаттарын таңдаңыз."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Санаттар"

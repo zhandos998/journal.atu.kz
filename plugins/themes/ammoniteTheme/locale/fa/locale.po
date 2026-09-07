@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: fa\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "قالب Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "قالب OJS طراحی شده برای سازمان زمین‌شناسی دانمارک و گرینلند، مبتنی بر Health Sciences. نیازمند نصب قالب Health Sciences است؛ در غیر این صورت این قالب استایل‌ها، قالب‌ها و hookهای خود را بارگذاری نخواهد کرد."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "قالب Ammonite نیازمند نصب قالب Health Sciences است. قبل از فعال‌سازی قالب Ammonite، Health Sciences را نصب کنید؛ در غیر این صورت استایل‌ها و قالب‌های آن بارگذاری نمی‌شوند."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "اخبار مجله"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "دانلود"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "اشتراک‌گذاری"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "آخرین شماره"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "ج."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "بیشتر در این شماره بخوانید"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "مرور شماره"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "تأمین مالی"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "معیارها"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "ارسال دست‌نوشته"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "اطلاعات"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "کتابداران"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "داوران"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "ویراستار شوید"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "داور شوید"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "حریم خصوصی"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "کوکی‌ها"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "خوراک RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "اولین دسته‌بندی صفحه اصلی"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "اولین (بالاترین) دسته‌بندی مقالات را برای نمایش در صفحه اصلی انتخاب کنید"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "دومین دسته‌بندی صفحه اصلی"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "دومین دسته‌بندی مقالات را برای نمایش در صفحه اصلی انتخاب کنید"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "سومین دسته‌بندی صفحه اصلی"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "سومین دسته‌بندی مقالات را برای نمایش در صفحه اصلی انتخاب کنید"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "هیچ‌کدام"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "زیردسته‌های ویژه (به‌صورت لیست)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "یک دسته‌بندی انتخاب کنید (به‌صورت لیست در صفحه اصلی نمایش داده می‌شود)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "محتوای بلوک اطلاعات صفحه اصلی"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "محتوای بلوک اطلاعات صفحه اصلی را وارد کنید (در کنار اطلاعات برای نویسندگان و کتابداران نمایش داده می‌شود)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "عنوان بلوک اطلاعات صفحه اصلی"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "عنوان بلوک اطلاعات صفحه اصلی را وارد کنید"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "مقالات صفحه اصلی"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "تعداد مقالاتی که در هر دسته‌بندی در صفحه اصلی نمایش داده می‌شود را وارد کنید."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "لوگو برای پاورقی"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "فایل لوگو را که درست بالای لوگوی OJS در پاورقی نمایش داده می‌شود انتخاب کنید"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "پیوند برای شبکه اجتماعی X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "پیوند برای YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "پیوند برای LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "پیوند برای Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "یک فایل انتخاب کنید"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "متن آیتم ۱ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "متن آیتم ۱ پاورقی را که در لیست پیوندهای پاورقی نمایش داده می‌شود وارد کنید"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "نشانی اینترنتی آیتم ۱ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "نشانی اینترنتی آیتم ۱ پاورقی را وارد کنید (کاربر را هدایت خواهد کرد)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "متن آیتم ۲ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "متن آیتم ۲ پاورقی را که در لیست پیوندهای پاورقی نمایش داده می‌شود وارد کنید."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "نشانی اینترنتی آیتم ۲ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "نشانی اینترنتی که آیتم ۲ پاورقی (کاربر را هدایت خواهد کرد)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "متن آیتم ۳ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "متن آیتم ۳ پاورقی را که در لیست پیوندهای پاورقی نمایش داده می‌شود وارد کنید."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "نشانی اینترنتی آیتم ۳ پاورقی"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "نشانی اینترنتی که آیتم ۳ پاورقی (کاربر را هدایت خواهد کرد)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "رنگ پس‌زمینه بخش اخبار مجله"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "رنگی برای پر کردن پس‌زمینه بخش اخبار مجله در صفحه اصلی انتخاب کنید."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "رنگ پس‌زمینه بخش اطلاعات"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "رنگی برای پر کردن پس‌زمینه بخش اطلاعات در صفحه اصلی انتخاب کنید."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "نتایج جستجو برای"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "تصویر پیش‌فرض برای جلد شماره"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "تصویری را انتخاب کنید که هنگامی که شماره تصویر جلد ندارد به‌عنوان تصویر جلد استفاده شود."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "تصویر پیش‌فرض برای مقاله"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "تصویری را برای استفاده در مقالاتی که تصویر ندارند انتخاب کنید."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "دسته‌بندی برای نمایش اولین زیردسته روی مقاله"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "یک دسته‌بندی والد انتخاب کنید و سیستم اولین زیردسته این دسته‌بندی که به مقاله اختصاص یافته را نمایش خواهد داد."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "پنهان یا نمایش بخش در صفحه مقاله"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "اگر نمایش، بخشی به‌نام «بخش» در صفحه فرود مقاله ظاهر خواهد شد."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "پنهان یا نمایش بخش دسته‌بندی‌ها در صفحه مقاله"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "اگر نمایش، بخشی به‌نام «دسته‌بندی‌ها» در صفحه فرود مقاله ظاهر خواهد شد."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "پنهان"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "نمایش"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "تصویر مقاله تنظیم نشده است."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "جلد شماره به‌زودی."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "از فرم جستجو برای یافتن مقالات منتشرشده از بایگانی‌های ما استفاده کنید."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "صفحه اول"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "صفحه قبلی"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "صفحه بعدی"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "صفحه آخر"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "متن جایگزین برای لوگوی پاورقی."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "متن جایگزین برای تصویر لوگوی پاورقی که در بالا انتخاب شده است."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "پیوندی که لوگوی مشتری در پاورقی باید به آن هدایت شود."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "پیوندی که تصویر لوگوی پاورقی باید به آن هدایت شود."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "فراداده‌های مقاله برای نمایش."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "انتخاب کنید کدام یک از فراداده‌های زیر می‌توانند در صفحه مقاله ظاهر شوند."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "دسته‌بندی‌ها برای نمایش مقالات در صفحه اصلی."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "دسته‌بندی‌های مقالات را برای نمایش در صفحه اصلی انتخاب کنید."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "دسته‌بندی‌ها"

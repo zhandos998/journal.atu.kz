@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: zh_Hans\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite 主题"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "为丹麦和格陵兰地质调查局设计、基于 Health Sciences 的 OJS 主题。需要安装 Health Sciences 主题；否则该主题将无法加载其样式、模板或钩子。"
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite 主题需要安装 Health Sciences 主题。请在激活 Ammonite 主题之前安装 Health Sciences；否则其样式和模板将无法加载。"
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "期刊新闻"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "下载"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "分享"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "最新一期"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "卷"
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "阅读本期更多内容"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "浏览本期"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "资助"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "指标"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "提交稿件"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "信息"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "图书馆员"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "审稿人"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "成为编辑"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "成为审稿人"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "隐私"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookie"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS 订阅"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "首页第一分类"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "选择首页显示的第一个(顶部)文章分类"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "首页第二分类"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "选择首页显示的第二个文章分类"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "首页第三分类"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "选择首页显示的第三个文章分类"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "无"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "推荐子分类(作为列表)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "选择一个分类(在首页以列表形式显示)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "首页信息块内容"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "输入首页信息块的内容(与作者和图书馆员信息一并显示)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "首页信息块标题"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "输入首页信息块的标题"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "首页文章"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "输入首页每个分类显示的文章数量。"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "页脚徽标"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "选择要在页脚的 OJS 徽标正上方显示的徽标文件"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "社交媒体 X 链接"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "YouTube 链接"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "LinkedIn 链接"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Instagram 链接"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "选择文件"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "页脚项目 1 文本"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "输入页脚项目 1 的文本,显示在页脚链接列表中"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "页脚项目 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "输入页脚项目 1 的 URL(将重定向用户)。"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "页脚项目 2 文本"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "输入页脚项目 2 的文本,显示在页脚链接列表中。"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "页脚项目 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "页脚项目 2(将重定向用户)的 URL。"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "页脚项目 3 文本"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "输入页脚项目 3 的文本,显示在页脚链接列表中。"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "页脚项目 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "页脚项目 3(将重定向用户)的 URL。"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "期刊新闻板块背景颜色"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "选择一种颜色填充首页期刊新闻板块的背景。"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "信息板块背景颜色"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "选择一种颜色填充首页信息板块的背景。"
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "搜索结果:"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "期封面默认图片"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "选择在期没有封面时用作封面图片的图片。"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "文章默认图片"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "选择用于没有图片的文章的图片。"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "在文章上显示第一个子分类的分类"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "选择一个父分类,系统将显示该分类中分配给文章的第一个子分类。"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "在文章页面上隐藏或显示栏目"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "如果显示,文章落地页会出现一个名为“栏目”的部分。"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "在文章页面上隐藏或显示分类部分"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "如果显示,文章落地页会出现一个名为“分类”的部分。"
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "隐藏"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "显示"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "未设置文章图片。"
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "期封面即将推出。"
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "使用搜索表单查找我们档案中已发表的文章。"
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "第一页"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "上一页"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "下一页"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "最后一页"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "页脚徽标的替代文本。"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "上方所选页脚徽标图片的替代文本。"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "页脚客户徽标应重定向到的链接。"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "页脚徽标图片应重定向到的链接。"
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "要显示的文章元数据。"
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "选择以下哪些元数据可以出现在文章页面上。"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "在首页显示文章的分类。"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "选择要在首页显示的文章分类。"
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "分类"

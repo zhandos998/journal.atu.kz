@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: el\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Θέμα Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Ένα θέμα OJS σχεδιασμένο για τη Γεωλογική Υπηρεσία της Δανίας και της Γροιλανδίας, βασισμένο στο Health Sciences. Απαιτεί την εγκατάσταση του θέματος Health Sciences· διαφορετικά αυτό το θέμα δεν θα φορτώσει τα στυλ, τα πρότυπα ή τα hooks του."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Το θέμα Ammonite απαιτεί την εγκατάσταση του θέματος Health Sciences. Εγκαταστήστε το Health Sciences πριν ενεργοποιήσετε το θέμα Ammonite· διαφορετικά τα στυλ και τα πρότυπά του δεν θα φορτωθούν."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Νέα περιοδικού"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Λήψη"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Κοινοποίηση"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Τελευταίο τεύχος"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Τόμ."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Διαβάστε περισσότερα σε αυτό το τεύχος"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Περιήγηση τεύχους"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Χρηματοδότηση"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Μετρικές"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Υποβολή χειρογράφου"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Πληροφορίες"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Βιβλιοθηκονόμοι"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Κριτές"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Γίνετε εκδότης"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Γίνετε κριτής"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Απόρρητο"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookies"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "Ροή RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Πρώτη κατηγορία αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Επιλέξτε την πρώτη (κύρια) κατηγορία άρθρων για εμφάνιση στην αρχική σελίδα"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Δεύτερη κατηγορία αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Επιλέξτε τη δεύτερη κατηγορία άρθρων για εμφάνιση στην αρχική σελίδα"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Τρίτη κατηγορία αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Επιλέξτε την τρίτη κατηγορία άρθρων για εμφάνιση στην αρχική σελίδα"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Καμία"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Προτεινόμενες υποκατηγορίες (ως λίστα)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Επιλέξτε μια κατηγορία (εμφανίζεται στην αρχική σελίδα ως λίστα)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Περιεχόμενο μπλοκ πληροφοριών αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Εισαγάγετε το περιεχόμενο του μπλοκ πληροφοριών της αρχικής σελίδας (εμφανίζεται δίπλα στις πληροφορίες για συγγραφείς και βιβλιοθηκονόμους)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Τίτλος μπλοκ πληροφοριών αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Εισαγάγετε τον τίτλο του μπλοκ πληροφοριών της αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Άρθρα αρχικής σελίδας"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Εισαγάγετε τον αριθμό άρθρων που θα εμφανίζονται σε κάθε κατηγορία στην αρχική σελίδα."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Λογότυπο για υποσέλιδο"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Επιλέξτε το αρχείο λογότυπου που θα εμφανίζεται ακριβώς πάνω από το λογότυπο OJS στο υποσέλιδο"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Σύνδεσμος για το κοινωνικό δίκτυο X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Σύνδεσμος για YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Σύνδεσμος για LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Σύνδεσμος για Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Επιλέξτε ένα αρχείο"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Κείμενο στοιχείου 1 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Εισαγάγετε το κείμενο για το στοιχείο 1 του υποσέλιδου που θα εμφανίζεται στη λίστα συνδέσμων του υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL στοιχείου 1 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Εισαγάγετε το URL για το στοιχείο 1 του υποσέλιδου (θα ανακατευθύνει τον χρήστη)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Κείμενο στοιχείου 2 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Εισαγάγετε το κείμενο για το στοιχείο 2 του υποσέλιδου που θα εμφανίζεται στη λίστα συνδέσμων του υποσέλιδου."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL στοιχείου 2 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL προς το οποίο το στοιχείο 2 υποσέλιδου (θα ανακατευθύνει τον χρήστη)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Κείμενο στοιχείου 3 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Εισαγάγετε το κείμενο για το στοιχείο 3 του υποσέλιδου που θα εμφανίζεται στη λίστα συνδέσμων του υποσέλιδου."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL στοιχείου 3 υποσέλιδου"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL προς το οποίο το στοιχείο 3 υποσέλιδου (θα ανακατευθύνει τον χρήστη)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Χρώμα για το φόντο της ενότητας Νέα περιοδικού"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Επιλέξτε ένα χρώμα για να γεμίσετε το φόντο της ενότητας Νέα περιοδικού στην αρχική σελίδα."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Χρώμα για το φόντο της ενότητας Πληροφορίες"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Επιλέξτε ένα χρώμα για να γεμίσετε το φόντο της ενότητας Πληροφορίες στην αρχική σελίδα."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Αποτελέσματα αναζήτησης για"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Προεπιλεγμένη εικόνα για εξώφυλλο τεύχους"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Επιλέξτε μια εικόνα που θα χρησιμοποιηθεί ως εικόνα εξωφύλλου όταν το τεύχος δεν έχει."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Προεπιλεγμένη εικόνα για άρθρο"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Επιλέξτε μια εικόνα που θα χρησιμοποιηθεί για άρθρα που δεν έχουν."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Κατηγορία για εμφάνιση της πρώτης υποκατηγορίας στο άρθρο"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Επιλέξτε μια γονική κατηγορία και το σύστημα θα εμφανίσει την πρώτη υποκατηγορία από αυτήν που έχει αντιστοιχιστεί στο άρθρο."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Απόκρυψη ή εμφάνιση ενότητας στη σελίδα του άρθρου"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Αν εμφάνιση, μια ενότητα με την ονομασία «ενότητα» θα εμφανιστεί στη σελίδα προορισμού του άρθρου."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Απόκρυψη ή εμφάνιση ενότητας κατηγοριών στη σελίδα του άρθρου"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Αν εμφάνιση, μια ενότητα με την ονομασία «κατηγορίες» θα εμφανιστεί στη σελίδα προορισμού του άρθρου."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Απόκρυψη"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Εμφάνιση"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Δεν έχει οριστεί εικόνα άρθρου."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Εξώφυλλο τεύχους σύντομα."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Χρησιμοποιήστε τη φόρμα αναζήτησης για να βρείτε δημοσιευμένα άρθρα από τα αρχεία μας."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Πρώτη σελίδα"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Προηγούμενη σελίδα"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Επόμενη σελίδα"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Τελευταία σελίδα"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Εναλλακτικό κείμενο για το λογότυπο του υποσέλιδου."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Το εναλλακτικό κείμενο για την εικόνα λογότυπου υποσέλιδου που επιλέχθηκε παραπάνω."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Ο σύνδεσμος όπου πρέπει να ανακατευθύνει το λογότυπο πελάτη στο υποσέλιδο."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Ο σύνδεσμος όπου πρέπει να ανακατευθύνει η εικόνα λογότυπου υποσέλιδου."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Μεταδεδομένα άρθρου προς εμφάνιση."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Επιλέξτε ποια από τα ακόλουθα μεταδεδομένα μπορούν να εμφανιστούν στη σελίδα του άρθρου."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Κατηγορίες για εμφάνιση άρθρων στην αρχική σελίδα."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Επιλέξτε τις κατηγορίες άρθρων που θα εμφανίζονται στην αρχική σελίδα."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Κατηγορίες"

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: fi\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite-teema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS-teema, joka on suunniteltu Tanskan ja Grönlannin geologisen tutkimuksen käyttöön, perustuu Health Sciences -teemaan. Vaatii Health Sciences -teeman asentamisen; muuten tämä teema ei lataa tyylejään, mallipohjia tai hookkeja."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite-teema vaatii Health Sciences -teeman asentamisen. Asenna Health Sciences ennen Ammonite-teeman aktivointia; muuten sen tyylit ja mallipohjat eivät lataudu."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Lehden uutiset"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Lataa"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Jaa"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Viimeisin numero"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vsk."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Lue lisää tässä numerossa"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Selaa numeroa"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Rahoitus"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Tilastot"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Lähetä käsikirjoitus"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Tietoa"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Kirjastonhoitajat"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Arvioijat"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Ryhdy toimittajaksi"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Ryhdy arvioijaksi"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Yksityisyys"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Evästeet"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-syöte"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Etusivun ensimmäinen kategoria"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Valitse ensimmäinen (ylin) artikkelikategoria, joka näytetään etusivulla"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Etusivun toinen kategoria"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Valitse toinen artikkelikategoria, joka näytetään etusivulla"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Etusivun kolmas kategoria"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Valitse kolmas artikkelikategoria, joka näytetään etusivulla"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Ei mitään"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Esitellyt alakategoriat (luettelona)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Valitse kategoria (näytetään etusivulla luettelona)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Etusivun tietolohkon sisältö"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Syötä etusivun tietolohkon sisältö (näytetään kirjoittajille ja kirjastonhoitajille tarkoitettujen tietojen rinnalla)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Etusivun tietolohkon otsikko"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Syötä etusivun tietolohkon otsikko"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Etusivun artikkelit"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Syötä artikkeleiden määrä, joka näytetään jokaisessa kategoriassa etusivulla."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Alatunnisteen logo"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Valitse logotiedosto, joka näytetään juuri OJS-logon yläpuolella alatunnisteessa"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Linkki sosiaalisen median X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Linkki YouTubeen"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Linkki LinkedIniin"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Linkki Instagramiin"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Valitse tiedosto"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Alatunnisteen kohta 1 -teksti"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Syötä teksti alatunnisteen kohtaa 1 varten, joka näytetään alatunnisteen linkkiluettelossa"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Alatunnisteen kohta 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Syötä URL alatunnisteen kohtaa 1 varten (ohjaa käyttäjän)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Alatunnisteen kohta 2 -teksti"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Syötä teksti alatunnisteen kohtaa 2 varten, joka näytetään alatunnisteen linkkiluettelossa."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Alatunnisteen kohta 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, johon alatunnisteen kohta 2 (ohjaa käyttäjän)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Alatunnisteen kohta 3 -teksti"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Syötä teksti alatunnisteen kohtaa 3 varten, joka näytetään alatunnisteen linkkiluettelossa."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Alatunnisteen kohta 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, johon alatunnisteen kohta 3 (ohjaa käyttäjän)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Lehden uutiset -osion taustan väri"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Valitse väri täyttämään Lehden uutiset -osion tausta etusivulla."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Tieto-osion taustan väri"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Valitse väri täyttämään Tieto-osion tausta etusivulla."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Hakutulokset haulle"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Numeron kansikuvan oletuskuva"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Valitse kuva, jota käytetään kansikuvana, kun numerolla ei ole sellaista."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Artikkelin oletuskuva"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Valitse kuva, jota käytetään artikkeleissa, joilla ei ole kuvaa."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategoria ensimmäisen alakategorian näyttämiseen artikkelissa"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Valitse yläkategoria ja järjestelmä näyttää ensimmäisen alakategorian tästä, joka on määritetty artikkelille."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Piilota tai näytä osasto artikkelisivulla"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Jos näytetään, osio nimeltä 'osasto' näkyy artikkelin laskeutumissivulla."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Piilota tai näytä kategoriaosio artikkelisivulla"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Jos näytetään, osio nimeltä 'kategoriat' näkyy artikkelin laskeutumissivulla."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Piilota"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Näytä"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Artikkelikuvaa ei ole asetettu."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Numeron kansi tulossa pian."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Käytä hakulomaketta löytääksesi julkaistuja artikkeleita arkistoistamme."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Ensimmäinen sivu"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Edellinen sivu"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Seuraava sivu"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Viimeinen sivu"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-teksti alatunnisteen logolle."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-teksti edellä valitulle alatunnisteen logokuvalle."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Linkki, johon alatunnisteen asiakaslogon tulisi ohjata."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Linkki, johon alatunnisteen logokuvan tulisi ohjata."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Näytettävät artikkelin metatiedot."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Valitse, mitkä seuraavista metatiedoista voivat näkyä artikkelisivulla."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategoriat, joiden artikkelit näytetään etusivulla."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Valitse artikkelikategoriat, jotka näytetään etusivulla."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategoriat"

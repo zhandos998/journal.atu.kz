@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: hy\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite թեմա"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS թեմա, որը նախագծված է Դանիայի և Գրենլանդիայի Երկրաբանական ծառայության համար, հիմնված է Health Sciences թեմայի վրա։ Պահանջում է Health Sciences թեմայի տեղադրում, հակառակ դեպքում այս թեման չի բեռնի իր ոճերը, ձևանմուշները կամ hook-երը։"
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite թեման պահանջում է Health Sciences թեմայի տեղադրում։ Տեղադրեք Health Sciences-ը նախքան Ammonite թեմայի ակտիվացումը, հակառակ դեպքում նրա ոճերը և ձևանմուշները չեն բեռնվի։"
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Ամսագրի նորություններ"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Ներբեռնել"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Կիսվել"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Վերջին համարը"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Հատոր"
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Կարդալ ավելին այս համարում"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Զննել համարը"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Ֆինանսավորում"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Չափորոշիչներ"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Ներկայացնել ձեռագիրը"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Տեղեկատվություն"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Գրադարանավարներ"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Գրախոսներ"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Դարձեք խմբագիր"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Դարձեք գրախոս"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Գաղտնիություն"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Թխվածքաբլիթներ"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS հոսք"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Գլխավոր էջի առաջին կատեգորիա"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Ընտրեք հոդվածների առաջին (վերևի) կատեգորիան՝ գլխավոր էջում ցուցադրելու համար"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Գլխավոր էջի երկրորդ կատեգորիա"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Ընտրեք հոդվածների երկրորդ կատեգորիան՝ գլխավոր էջում ցուցադրելու համար"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Գլխավոր էջի երրորդ կատեգորիա"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Ընտրեք հոդվածների երրորդ կատեգորիան՝ գլխավոր էջում ցուցադրելու համար"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Ոչ մեկը"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Ընտրված ենթակատեգորիաներ (որպես ցուցակ)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Ընտրեք կատեգորիա (գլխավոր էջում ցուցադրվում է որպես ցուցակ)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Գլխավոր էջի տեղեկատվական բլոկի բովանդակություն"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Մուտքագրեք գլխավոր էջի տեղեկատվական բլոկի բովանդակությունը (ցուցադրվում է հեղինակների և գրադարանավարների համար տեղեկատվության կողքին)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Գլխավոր էջի տեղեկատվական բլոկի վերնագիր"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Մուտքագրեք գլխավոր էջի տեղեկատվական բլոկի վերնագիրը"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Գլխավոր էջի հոդվածներ"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Մուտքագրեք հոդվածների թիվը, որոնք կցուցադրվեն գլխավոր էջի յուրաքանչյուր կատեգորիայում։"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Լոգո ստորագրի համար"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Ընտրեք լոգոյի ֆայլը, որը կցուցադրվի ստորագրի OJS լոգոյից անմիջապես վերևում"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Հղում X սոցիալական մեդիայի համար"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Հղում YouTube-ի համար"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Հղում LinkedIn-ի համար"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Հղում Instagram-ի համար"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Ընտրեք ֆայլ"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Ստորագրի 1-ին տարրի տեքստ"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Մուտքագրեք տեքստը ստորագրի 1-ին տարրի համար, որը կցուցադրվի ստորագրի հղումների ցանկում"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Ստորագրի 1-ին տարրի URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Մուտքագրեք URL-ը ստորագրի 1-ին տարրի համար (կվերահղի օգտատիրոջը)։"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Ստորագրի 2-րդ տարրի տեքստ"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Մուտքագրեք տեքստը ստորագրի 2-րդ տարրի համար, որը կցուցադրվի ստորագրի հղումների ցանկում։"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Ստորագրի 2-րդ տարրի URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, որին ստորագրի 2-րդ տարրը (կվերահղի օգտատիրոջը)։"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Ստորագրի 3-րդ տարրի տեքստ"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Մուտքագրեք տեքստը ստորագրի 3-րդ տարրի համար, որը կցուցադրվի ստորագրի հղումների ցանկում։"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Ստորագրի 3-րդ տարրի URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, որին ստորագրի 3-րդ տարրը (կվերահղի օգտատիրոջը)։"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Ամսագրի նորությունների բաժնի ֆոնի գույնը"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Ընտրեք գույն՝ գլխավոր էջի Ամսագրի նորությունների բաժնի ֆոնը լրացնելու համար։"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Տեղեկատվության բաժնի ֆոնի գույնը"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Ընտրեք գույն՝ գլխավոր էջի Տեղեկատվության բաժնի ֆոնը լրացնելու համար։"
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Որոնման արդյունքներ"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Համարի կազմի լռելյայն պատկեր"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Ընտրեք պատկեր, որն օգտագործվելու է որպես կազմի պատկեր, երբ համարը չունի:"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Հոդվածի լռելյայն պատկեր"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Ընտրեք պատկեր, որն օգտագործվելու է հոդվածների համար, որոնք չունեն:"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Կատեգորիա՝ հոդվածի վրա առաջին ենթակատեգորիան ցույց տալու համար"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Ընտրեք ծնող կատեգորիա և համակարգը կցուցադրի այս կատեգորիայից առաջին ենթակատեգորիան, որը վերագրված է հոդվածին։"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Թաքցնել կամ ցուցադրել բաժինը հոդվածի էջում"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Եթե ցուցադրել, հոդվածի վայրէջքի էջում կհայտնվի «բաժին» կոչվող հատված։"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Թաքցնել կամ ցուցադրել կատեգորիաների բաժինը հոդվածի էջում"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Եթե ցուցադրել, հոդվածի վայրէջքի էջում կհայտնվի «կատեգորիաներ» կոչվող հատված։"
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Թաքցնել"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Ցուցադրել"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Հոդվածի պատկեր սահմանված չէ։"
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Համարի կազմը շուտով։"
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Օգտագործեք որոնման ձևը՝ մեր արխիվներից հրապարակված հոդվածներ գտնելու համար։"
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Առաջին էջ"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Նախորդ էջ"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Հաջորդ էջ"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Վերջին էջ"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt տեքստ ստորագրի լոգոյի համար։"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt տեքստը վերևում ընտրված ստորագրի լոգոյի պատկերի համար։"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Հղում, որին ստորագրի հաճախորդի լոգոն պետք է վերահղի։"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Հղում, որին ստորագրի լոգոյի պատկերը պետք է վերահղի։"
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Ցուցադրվող հոդվածի մետատվյալներ։"
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Ընտրեք, թե հետևյալ մետատվյալներից որոնք կարող են հայտնվել հոդվածի էջում։"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Կատեգորիաներ՝ գլխավոր էջում հոդվածներ ցուցադրելու համար։"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Ընտրեք հոդվածների կատեգորիաները գլխավոր էջում ցուցադրելու համար։"
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Կատեգորիաներ"

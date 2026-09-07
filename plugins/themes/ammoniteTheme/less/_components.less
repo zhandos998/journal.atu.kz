@@ -1,0 +1,93 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_components.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Component styles
+ */
+
+.ammonite-divider {
+    width: 100%;
+    border-bottom: 1px solid @colour-black;
+}
+
+.scroll-to,
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.submit-a-manuscript-button {
+    padding-top: .75rem !important;
+    padding-bottom: .75rem !important;
+}
+
+.ammonite-primary-button {
+	.button-transition(@primary-colour, @colour-on-primary-menu-hover);
+}
+
+button {
+	&#connect-orcid-button.cmp_button {
+		.button-transition(@primary-colour, @colour-on-primary-menu-hover);
+	}
+}
+
+.ammonite-secondary-button {
+	.button-transition(@colour-light-blue, @colour-white);
+}
+
+.ammonite-underlined-input {
+    border: 0;
+    border-bottom: 1px solid @colour-black;
+    border-radius: 0 !important;
+}
+
+.custom-date-selects {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    select {
+        margin: 0;
+        background-color: @colour-white;
+        background-clip: padding-box;
+        appearance: none;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+        background-repeat: no-repeat;
+        background-position: right 0.75rem center;
+        background-size: 16px 12px;
+        width: 30%;
+        border: 0;
+        border-bottom: 1px solid @colour-black;
+        border-radius: 0 !important;
+    }
+}
+
+.ammonite-input {
+    border: 1px solid @colour-black !important;
+    border-radius: 0 !important;
+}
+
+.ammonite-login-input {
+    background-color: @colour-light-blue;
+}
+
+.article-details-block {
+	.dropdown {
+		button {
+			&:hover {
+				background-color: @colour-white !important;
+				border: 1px solid @colour-black;
+			}
+		}
+	}
+}
+
+@media(max-width: 575px) {
+	.submit-a-manuscript-button {
+        padding-top: .25rem !important;
+        padding-bottom: .25rem !important;
+    }
+}

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ca\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Tema Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Un tema d'OJS dissenyat per al Servei Geològic de Dinamarca i Groenlàndia, basat en Health Sciences. Requereix que el tema Health Sciences estigui instal·lat; en cas contrari, aquest tema no carregarà els seus estils, plantilles ni hooks."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "El tema Ammonite requereix que el tema Health Sciences estigui instal·lat. Instal·leu Health Sciences abans d'activar el tema Ammonite; en cas contrari, els seus estils i plantilles no es carregaran."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Notícies de la revista"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Descarregar"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Compartir"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Últim número"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vol."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Llegiu més en aquest número"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Explorar el número"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finançament"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Mètriques"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Enviar un manuscrit"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informació"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotecaris/àries"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Revisors/ores"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Ser editor/a"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Ser revisor/a"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privacitat"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Galetes"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "Canal RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Primera categoria de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Trieu la primera (superior) categoria d'articles que es mostrarà a la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Segona categoria de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Trieu la segona categoria d'articles que es mostrarà a la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Tercera categoria de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Trieu la tercera categoria d'articles que es mostrarà a la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Cap"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Subcategories destacades (com a llista)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Seleccioneu una categoria (mostrada a la pàgina d'inici com a llista)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Contingut del bloc d'informació de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Introduïu el contingut per al bloc d'informació de la pàgina d'inici (mostrat al costat de la informació per a autors/ores i bibliotecaris/àries)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Títol del bloc d'informació de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Introduïu el títol del bloc d'informació de la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Articles a la pàgina d'inici"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Introduïu el nombre d'articles que es mostraran en cada categoria a la pàgina d'inici."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logotip per al peu de pàgina"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Seleccioneu el fitxer del logotip que es mostrarà just a sobre del logotip d'OJS al peu de pàgina"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Enllaç per a la xarxa social X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Enllaç per a YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Enllaç per a LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Enllaç per a Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Seleccionar un fitxer"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Text de l'element 1 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Introduïu el text per a l'element 1 del peu de pàgina que es mostrarà a la llista d'enllaços del peu"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL de l'element 1 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Introduïu l'URL per a l'element 1 del peu de pàgina (redirigirà l'usuari/ària)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Text de l'element 2 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Introduïu el text per a l'element 2 del peu de pàgina que es mostrarà a la llista d'enllaços del peu."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL de l'element 2 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL a la qual l'element 2 del peu de pàgina (redirigirà l'usuari/ària)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Text de l'element 3 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Introduïu el text per a l'element 3 del peu de pàgina que es mostrarà a la llista d'enllaços del peu."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL de l'element 3 del peu de pàgina"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL a la qual l'element 3 del peu de pàgina (redirigirà l'usuari/ària)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Color del fons de la secció Notícies de la revista"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Trieu un color per omplir el fons de la secció Notícies de la revista a la pàgina d'inici."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Color del fons de la secció Informació"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Trieu un color per omplir el fons de la secció Informació a la pàgina d'inici."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Resultats de la cerca per a"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Imatge predeterminada per a la portada del número"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Trieu una imatge que s'usarà com a portada quan el número no en tingui cap."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Imatge predeterminada per a l'article"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Trieu una imatge que s'usarà per als articles que no en tinguin cap."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Categoria per mostrar la primera subcategoria a l'article"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Trieu una categoria pare i el sistema mostrarà la primera subcategoria d'aquesta que estigui assignada a l'article."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Amagar o mostrar la secció a la pàgina de l'article"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Si es mostra, apareixerà una secció anomenada «secció» a la pàgina de destinació de l'article."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Amagar o mostrar la secció de categories a la pàgina de l'article"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Si es mostra, apareixerà una secció anomenada «categories» a la pàgina de destinació de l'article."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Amagar"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Mostrar"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Sense imatge d'article configurada."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Portada del número properament."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Utilitzeu el formulari de cerca per trobar articles publicats als nostres arxius."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Primera pàgina"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Pàgina anterior"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Pàgina següent"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Última pàgina"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Text alternatiu per al logotip del peu de pàgina."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "El text alternatiu per a la imatge del logotip del peu de pàgina seleccionada a sobre."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "L'enllaç a on el logotip del client al peu de pàgina ha de redirigir."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "L'enllaç a on la imatge del logotip del peu de pàgina ha de redirigir."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Metadades de l'article a mostrar."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Seleccioneu quines de les metadades següents poden aparèixer a la pàgina de l'article."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Categories per mostrar articles a la pàgina d'inici."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Trieu les categories d'articles que es mostraran a la pàgina d'inici."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Categories"

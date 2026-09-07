@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: is\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite-þema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS-þema hannað fyrir Jarðfræðistofnun Danmerkur og Grænlands, byggt á Health Sciences. Krefst þess að Health Sciences-þemað sé sett upp; annars mun þetta þema ekki hlaða stílum sínum, sniðmátum eða hookum."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite-þemað krefst þess að Health Sciences-þemað sé sett upp. Settu upp Health Sciences áður en þú virkjar Ammonite-þemað; annars munu stílar og sniðmát þess ekki hlaðast."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Fréttir tímarits"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Hlaða niður"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Deila"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Nýjasta tölublað"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Árg."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Lesa meira í þessu tölublaði"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Skoða tölublað"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Fjármögnun"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Mælingar"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Senda inn handrit"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Upplýsingar"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bókasafnsfræðingar"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Matsmenn"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Gerast ritstjóri"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Gerast matsmaður"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Persónuvernd"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Vafrakökur"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-straumur"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Fyrsti flokkur heimasíðu"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Veldu fyrsta (efsta) flokk greina til að birta á heimasíðunni"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Annar flokkur heimasíðu"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Veldu annan flokk greina til að birta á heimasíðunni"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Þriðji flokkur heimasíðu"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Veldu þriðja flokk greina til að birta á heimasíðunni"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Enginn"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Valdir undirflokkar (sem listi)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Veldu flokk (birtur á heimasíðunni sem listi)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Efni upplýsingareitar á heimasíðu"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Sláðu inn efni fyrir upplýsingareit heimasíðunnar (birtur við hlið upplýsinga fyrir höfunda og bókasafnsfræðinga)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Titill upplýsingareitar á heimasíðu"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Sláðu inn titil upplýsingareitar heimasíðunnar"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Greinar á heimasíðu"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Sláðu inn fjölda greina sem á að sýna í hverjum flokki á heimasíðunni."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Lógó fyrir síðufót"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Veldu lógóskrána sem á að birta beint fyrir ofan OJS-lógóið í síðufæti"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Tengill á samfélagsmiðilinn X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Tengill á YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Tengill á LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Tengill á Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Veldu skrá"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Texti atriðis 1 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Sláðu inn texta fyrir atriði 1 í síðufæti sem á að birta á tenglalista síðufótsins"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL fyrir atriði 1 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Sláðu inn URL fyrir atriði 1 í síðufæti (mun beina notandanum áfram)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Texti atriðis 2 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Sláðu inn texta fyrir atriði 2 í síðufæti sem á að birta á tenglalista síðufótsins."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL fyrir atriði 2 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL sem atriði 2 í síðufæti (mun beina notandanum áfram)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Texti atriðis 3 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Sláðu inn texta fyrir atriði 3 í síðufæti sem á að birta á tenglalista síðufótsins."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL fyrir atriði 3 í síðufæti"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL sem atriði 3 í síðufæti (mun beina notandanum áfram)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Litur fyrir bakgrunn Fréttir tímarits hlutans"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Veldu lit til að fylla bakgrunn Fréttir tímarits hlutans á heimasíðunni."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Litur fyrir bakgrunn Upplýsingar hlutans"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Veldu lit til að fylla bakgrunn Upplýsingar hlutans á heimasíðunni."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Leitarniðurstöður fyrir"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Sjálfgefin mynd fyrir forsíðu tölublaðs"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Veldu mynd sem á að nota sem forsíðumynd þegar tölublaðið hefur ekki eina."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Sjálfgefin mynd fyrir grein"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Veldu mynd sem á að nota fyrir greinar sem hafa ekki mynd."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Flokkur til að sýna fyrsta undirflokk á grein"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Veldu yfirflokk og kerfið mun sýna fyrsta undirflokkinn úr þessum sem er úthlutað greininni."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Fela eða sýna kafla á greinarsíðu"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Ef sýna, þá birtist hluti nefndur 'kafli' á lendingarsíðu greinarinnar."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Fela eða sýna flokkahluta á greinarsíðu"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Ef sýna, þá birtist hluti nefndur 'flokkar' á lendingarsíðu greinarinnar."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Fela"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Sýna"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Engin greinarmynd stillt."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Forsíða tölublaðs kemur bráðum."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Notaðu leitareyðublaðið til að finna birtar greinar úr skjalasafni okkar."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Fyrsta síða"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Fyrri síða"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Næsta síða"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Síðasta síða"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-texti fyrir lógó í síðufæti."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-textinn fyrir lógómyndina í síðufæti sem valin er að ofan."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Tengillinn sem viðskiptavinalógóið í síðufæti á að vísa á."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Tengillinn sem lógómyndin í síðufæti á að vísa á."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Lýsigögn greinar sem á að birta."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Veldu hver af eftirfarandi lýsigögnum geta birst á greinarsíðunni."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Flokkar til að birta greinar á heimasíðu."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Veldu flokka greina til að birta á heimasíðunni."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Flokkar"

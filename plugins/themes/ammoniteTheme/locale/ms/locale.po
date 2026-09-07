@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ms\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Tema Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Tema OJS yang direka untuk Tinjauan Geologi Denmark dan Greenland, berasaskan Health Sciences. Memerlukan tema Health Sciences dipasang; jika tidak, tema ini tidak akan memuatkan gaya, templat, atau hook-nya."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Tema Ammonite memerlukan tema Health Sciences dipasang. Pasang Health Sciences sebelum mengaktifkan tema Ammonite; jika tidak, gaya dan templatnya tidak akan dimuatkan."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Berita jurnal"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Muat turun"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Kongsi"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Isu terkini"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vol."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Baca lebih lanjut dalam isu ini"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Layari isu"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Pembiayaan"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrik"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Hantar manuskrip"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Maklumat"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Pustakawan"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Penilai"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Jadilah editor"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Jadilah penilai"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privasi"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Kuki"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "Suapan RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Kategori pertama halaman utama"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Pilih kategori artikel pertama (paling atas) untuk dipaparkan di halaman utama"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Kategori kedua halaman utama"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Pilih kategori artikel kedua untuk dipaparkan di halaman utama"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Kategori ketiga halaman utama"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Pilih kategori artikel ketiga untuk dipaparkan di halaman utama"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Tiada"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Subkategori pilihan (sebagai senarai)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Pilih kategori (dipaparkan di halaman utama sebagai senarai)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Kandungan blok maklumat halaman utama"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Masukkan kandungan untuk blok maklumat halaman utama (dipaparkan bersebelahan dengan maklumat untuk Penulis dan Pustakawan)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Tajuk blok maklumat halaman utama"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Masukkan tajuk blok maklumat halaman utama"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Artikel halaman utama"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Masukkan bilangan artikel yang akan ditunjukkan dalam setiap kategori di halaman utama."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo untuk pengaki"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Pilih fail logo yang akan dipaparkan tepat di atas logo OJS di pengaki"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Pautan untuk Media Sosial X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Pautan untuk YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Pautan untuk LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Pautan untuk Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Pilih fail"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Teks item pengaki 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Masukkan teks untuk item pengaki 1 yang akan ditunjukkan dalam senarai pautan pengaki"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL item pengaki 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Masukkan URL untuk item pengaki 1 (akan mengalihkan pengguna)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Teks item pengaki 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Masukkan teks untuk item pengaki 2 yang akan ditunjukkan dalam senarai pautan pengaki."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL item pengaki 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL yang item pengaki 2 (akan mengalihkan pengguna)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Teks item pengaki 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Masukkan teks untuk item pengaki 3 yang akan ditunjukkan dalam senarai pautan pengaki."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL item pengaki 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL yang item pengaki 3 (akan mengalihkan pengguna)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Warna untuk latar belakang bahagian Berita jurnal"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Pilih warna untuk mengisi latar belakang bahagian Berita jurnal di halaman utama."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Warna untuk latar belakang bahagian Maklumat"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Pilih warna untuk mengisi latar belakang bahagian Maklumat di halaman utama."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Hasil carian untuk"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Imej lalai untuk kulit isu"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Pilih imej yang akan digunakan sebagai imej kulit apabila isu tidak mempunyai satu."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Imej lalai untuk artikel"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Pilih imej yang akan digunakan untuk artikel yang tidak mempunyainya."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategori untuk menunjukkan subkategori pertama pada artikel"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Pilih kategori induk dan sistem akan menunjukkan subkategori pertama daripada ini yang ditetapkan kepada artikel."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Sembunyi atau tunjukkan bahagian pada halaman artikel"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Jika tunjuk, bahagian yang dipanggil 'bahagian' akan muncul di halaman pendaratan artikel."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Sembunyi atau tunjukkan bahagian kategori pada halaman artikel"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Jika tunjuk, bahagian yang dipanggil 'kategori' akan muncul di halaman pendaratan artikel."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Sembunyi"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Tunjuk"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Tiada imej artikel yang ditetapkan."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Kulit isu akan datang."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Gunakan borang carian untuk mencari artikel yang diterbitkan dari arkib kami."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Halaman pertama"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Halaman sebelumnya"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Halaman seterusnya"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Halaman terakhir"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Teks alt untuk logo pengaki."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Teks alt untuk imej logo pengaki yang dipilih di atas."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Pautan ke mana logo pelanggan pengaki patut dialihkan."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Pautan ke mana imej logo pengaki patut dialihkan."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Metadata artikel untuk ditunjukkan."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Pilih metadata berikut yang boleh muncul di halaman artikel."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategori untuk menunjukkan Artikel di Halaman Utama."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Pilih kategori artikel untuk dipaparkan di halaman utama."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategori"

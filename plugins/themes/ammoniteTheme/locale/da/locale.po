@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: da\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite-tema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Et OJS-tema designet til De Nationale Geologiske Undersøgelser for Danmark og Grønland, baseret på Health Sciences. Kræver, at Health Sciences-temaet er installeret; ellers vil dette tema ikke indlæse sine stilarter, skabeloner eller hooks."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite-temaet kræver, at Health Sciences-temaet er installeret. Installer Health Sciences før du aktiverer Ammonite-temaet; ellers vil dets stilarter og skabeloner ikke blive indlæst."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Tidsskriftsnyheder"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Download"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Del"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Seneste nummer"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Bd."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Læs mere i dette nummer"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Gennemse nummer"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finansiering"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Statistik"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Indsend et manuskript"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Information"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotekarer"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Bedømmere"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Bliv redaktør"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Bliv bedømmer"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privatliv"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookies"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-feed"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Første kategori på forsiden"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Vælg den første (øverste) artikelkategori, der skal vises på forsiden"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Anden kategori på forsiden"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Vælg den anden artikelkategori, der skal vises på forsiden"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Tredje kategori på forsiden"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Vælg den tredje artikelkategori, der skal vises på forsiden"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Ingen"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Fremhævede underkategorier (som liste)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Vælg en kategori (vises på forsiden som en liste)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Indhold af forsidens informationsblok"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Indtast indhold til forsidens informationsblok (vises sammen med information til forfattere og bibliotekarer)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Titel på forsidens informationsblok"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Indtast titlen på forsidens informationsblok"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Artikler på forsiden"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Indtast antallet af artikler, der skal vises i hver kategori på forsiden."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo til sidefod"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Vælg logofilen, der skal vises lige over OJS-logoet i sidefoden"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Link til sociale medier X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Link til YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Link til LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Link til Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Vælg en fil"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Tekst til sidefodselement 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Indtast tekst til sidefodselement 1, der skal vises i linklisten i sidefoden"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL til sidefodselement 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Indtast URL'en til sidefodselement 1 (vil omdirigere brugeren)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Tekst til sidefodselement 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Indtast tekst til sidefodselement 2, der skal vises i linklisten i sidefoden."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL til sidefodselement 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL som sidefodselement 2 (vil omdirigere brugeren)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Tekst til sidefodselement 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Indtast tekst til sidefodselement 3, der skal vises i linklisten i sidefoden."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL til sidefodselement 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL som sidefodselement 3 (vil omdirigere brugeren)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Farve til baggrunden af afsnittet Tidsskriftsnyheder"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Vælg en farve til at udfylde baggrunden af afsnittet Tidsskriftsnyheder på forsiden."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Farve til baggrunden af afsnittet Information"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Vælg en farve til at udfylde baggrunden af afsnittet Information på forsiden."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Søgeresultater for"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Standardbillede til forsidebillede af nummer"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Vælg et billede, der skal bruges som forsidebillede, når nummeret ikke har et."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Standardbillede til artikel"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Vælg et billede, der skal bruges til artikler, der ikke har et."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategori til at vise første underkategori på artikel"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Vælg en overordnet kategori og systemet vil vise den første underkategori fra denne, der er tildelt artiklen."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Skjul eller vis sektion på artikelsiden"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Hvis vis, vil en sektion kaldet 'sektion' vises på artiklens landingsside."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Skjul eller vis kategorisektion på artikelsiden"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Hvis vis, vil en sektion kaldet 'kategorier' vises på artiklens landingsside."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Skjul"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Vis"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Intet artikelbillede angivet."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Nummerets forsidebillede kommer snart."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Brug søgeformularen til at finde udgivne artikler i vores arkiver."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Første side"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Forrige side"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Næste side"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Sidste side"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-tekst til sidefodslogo."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-teksten til det ovenfor valgte sidefodslogobillede."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Linket hvortil klientlogoet i sidefoden skal omdirigere."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Linket hvortil sidefodslogobilledet skal omdirigere."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Artikelmetadata der skal vises."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Vælg hvilke af følgende metadata der kan vises på artikelsiden."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategorier til at vise artikler på forsiden."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Vælg artikelkategorier der skal vises på forsiden."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategorier"

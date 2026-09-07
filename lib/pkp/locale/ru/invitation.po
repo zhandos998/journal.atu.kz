@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.5.0.4\n"
+"PO-Revision-Date: 2026-06-19 00:00+0500\n"
+"Last-Translator: Local OJS translation\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.notExisting"
+msgstr "Необходимо указать хотя бы одну добавляемую группу пользователей"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.userGroupAssignedToUser"
+msgstr "Эта группа пользователей уже назначена приглашённому пользователю"
+
+msgid "invitation.userRoleAssignment.validation.error.removeUserRoles.notExisting"
+msgstr "Необходимо указать хотя бы одну удаляемую группу пользователей"
+
+msgid "invitation.userRoleAssignment.validation.error.removeUserRoles.cantRemoveFromNonExistingUser"
+msgstr "Нельзя удалить роли у несуществующего пользователя."
+
+msgid "invitation.userRoleAssignment.validation.error.noUserGroupChanges"
+msgstr "Приглашение нельзя отправить, поскольку изменения групп пользователей не указаны"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.duplicateUserGroupId"
+msgstr "В списке групп пользователей обнаружены повторяющиеся записи."
+
+msgid "invitation.userRoleAssignment.validation.error.username.alreadyExisting"
+msgstr "Пользователь с именем {$username} уже существует. Выберите другое имя."
+
+msgid "invitation.userRoleAssignment.validation.error.user.mustExist"
+msgstr "Если в приглашении указан идентификатор пользователя ({$userId}), соответствующий пользователь должен существовать."
+
+msgid "invitation.userRoleAssignment.validation.error.user.emailMustNotExist"
+msgstr "Если в приглашении указан адрес электронной почты ({$email}), он не должен использоваться другим пользователем."
+
+msgid "invitation.userRoleAssignment.validation.error.username.mandatory"
+msgstr "Необходимо указать имя пользователя"
+
+msgid "invitation.userRoleAssignment.validation.error.password.mandatory"
+msgstr "Необходимо указать пароль"
+
+msgid "invitation.userRoleAssignment.validation.error.affiliation.mandatory"
+msgstr "Необходимо указать организацию"
+
+msgid "invitation.userRoleAssignment.validation.error.country.mandatory"
+msgstr "Необходимо указать страну"
+
+msgid "invitation.userRoleAssignment.validation.error.givenName.mandatory"
+msgstr "Необходимо указать имя"
+
+msgid "invitation.userRoleAssignment.validation.error.familyName.mandatory"
+msgstr "Необходимо указать фамилию"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.userGroupIdMandatory"
+msgstr "Для добавляемых групп необходимо указать идентификатор группы пользователей"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.dateStartMandatory"
+msgstr "Для добавляемых групп необходимо указать дату начала"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.mastheadMandatory"
+msgstr "Для добавляемых групп необходимо указать отображение в составе редакции"
+
+msgid "invitation.api.error.invitationTypeNotHasMailable"
+msgstr "Для этого типа приглашения не определено почтовое сообщение"
+
+msgid "invitation.api.error.operationFailed"
+msgstr "Не удалось выполнить операцию с приглашением"
+
+msgid "invitation.userRoleAssignment.validation.error.addUserRoles.userGroupNotExisting"
+msgstr "Группа пользователей с идентификатором {$userGroupId} не существует"
+
+msgid "invitation.validation.required"
+msgstr "Поле {$attribute} обязательно для заполнения."
+
+msgid "invitation.userRoleAssignment.validation.error.userRoles.unexpectedProperties"
+msgstr "В элементе с индексом {$attribute} обнаружены недопустимые свойства: {$properties}."
+
+msgid "invitation.reviewerAccess.validation.error.reviewAssignmentId.notExisting"
+msgstr "Идентификатор {reviewAssignmentId} не соответствует существующему назначению рецензента"
+
+msgid "invitation.api.error.invitationCantBeCanceled"
+msgstr "Это приглашение нельзя отменить"
+
+msgid "invitation.api.error.initialization.noUserIdAndEmailTogether"
+msgstr "Нельзя одновременно указывать email и userId."
+
+msgid "invitation.userRoleAssignment.error.update.prohibitedForExistingUser"
+msgstr "Этот атрибут недоступен для существующих пользователей"
+
+msgid "invitation.userRoleAssignment.error.update.prohibitedForNonExistingUser"
+msgstr "Этот атрибут недоступен для несуществующих пользователей"
+
+msgid "invitation.userRoleAssignment.userGroup.startDate.mustBeAfterToday"
+msgstr "Значение этого атрибута должно соответствовать сегодняшней или более поздней дате"
+
+msgid "invitation.validation.error.propertyProhibited"
+msgstr "Поле :attribute запрещено"
+
+msgid "invitation.userRoleAssignment.validation.error.multilingual.primaryLocaleRequired"
+msgstr "Необходимо указать значение для локали «{$primaryLocale}»"
+
+msgid "invitation.step"
+msgstr "ШАГ"
+
+msgid "invitation.header"
+msgstr "Приглашения"
+
+msgid "invitation.inviteToRole.btn"
+msgstr "Пригласить на роль"
+
+msgid "invitation.wizard.pageTitle"
+msgstr "Пригласить пользователя на роль"
+
+msgid "userInvitation.enterDetailsLabel"
+msgstr "Введите сведения"
+
+msgid "userInvitation.reviewAndInviteLabel"
+msgstr "Проверка и приглашение на роли"
+
+msgid "userInvitation.searchUser.stepName"
+msgstr "Поиск пользователя"
+
+msgid "userInvitation.searchUser.stepLabel"
+msgstr "{$step} — Поиск пользователя"
+
+msgid "userInvitation.searchUser.nextButtonLabel"
+msgstr "Найти пользователя"
+
+msgid "userInvitation.searchUser.stepDescription"
+msgstr "Если пользователя нет, вы можете пригласить его на одну или несколько ролей. Если пользователь уже существует в системе, вы можете просмотреть сведения о нём и назначить ему дополнительные роли."
+
+msgid "userInvitation.searchField.description"
+msgstr "Например: aeinstein@example.com, aeinstein или 0000-0002-1825-0097"
+
+msgid "userInvitation.enterDetails.stepName"
+msgstr "Ввод сведений"
+
+msgid "userInvitation.enterDetails.stepLabel"
+msgstr "{$step} — Ввод сведений и приглашение на роли"
+
+msgid "userInvitation.enterDetails.nextButtonLabel"
+msgstr "Сохранить и продолжить"
+
+msgid "invitation.role.selectRole"
+msgstr "Выберите новую роль"
+
+msgid "invitation.role.dateStart"
+msgstr "Дата начала"
+
+msgid "invitation.role.dateEnd"
+msgstr "Дата окончания"
+
+msgid "invitation.role.addRole.button"
+msgstr "Добавить ещё одну роль"
+
+msgid "userInvitation.roleTable.role"
+msgstr "Роль"
+
+msgid "userInvitation.roleTable.startDate"
+msgstr "Дата начала"
+
+msgid "userInvitation.roleTable.endDate"
+msgstr "Дата окончания"
+
+msgid "userInvitation.sendMail.stepName"
+msgstr "Проверка и приглашение на роли"
+
+msgid "userInvitation.sendMail.nextButtonLabel"
+msgstr "Пригласить пользователя на роль"
+
+msgid "userInvitation.sendMail.stepLabel"
+msgstr "{$step} — Редактирование письма пользователю"
+
+msgid "userInvitation.modal.title"
+msgstr "Приглашение отправлено"
+
+msgid "userInvitation.modal.button"
+msgstr "Просмотреть всех пользователей"
+
+msgid "invitation.role.removeRole.button"
+msgstr "Удалить роль"
+
+msgid "invitation.email.description"
+msgstr "Например: aeinstein@example.com"
+
+msgid "invitation.orcid.description"
+msgstr "После принятия приглашения пользователь сможет перейти в ORCID и при желании подтвердить свою учётную запись."
+
+msgid "invitation.givenName.description"
+msgstr "Если вы знаете имя пользователя, укажите его. Впоследствии пользователь сможет изменить эти сведения."
+
+msgid "invitation.familyName.description"
+msgstr "Если вы знаете фамилию пользователя, укажите её. Впоследствии пользователь сможет изменить эти сведения."
+
+msgid "invitation.decline.confirm"
+msgstr "Подтвердить отклонение приглашения"
+
+msgid "invitation.decline.confirm.title"
+msgstr "Отклонить приглашение"
+
+msgid "invitation.decline.confirm.description"
+msgstr "Вы уверены, что хотите отклонить это приглашение? Подтвердите отклонение, нажав кнопку ниже."
+
+msgid "acceptInvitation.verifyOrcid.stepName"
+msgstr "Подтверждение ORCID iD"
+
+msgid "acceptInvitation.verifyOrcid.stepLabel"
+msgstr "{$step} — Подтверждение ORCID iD"
+
+msgid "acceptInvitation.verifyOrcid.nextButtonLabel"
+msgstr "Сохранить и продолжить"
+
+msgid "acceptInvitation.accountDetails.nextButtonLabel"
+msgstr "Сохранить и продолжить"
+
+msgid "acceptInvitation.userDetails.stepName"
+msgstr "Ввод сведений"
+
+msgid "acceptInvitation.userDetails.stepLabel"
+msgstr "{$step} — Ввод сведений"
+
+msgid "acceptInvitation.userDetails.stepDescription"
+msgstr "Введите сведения о себе: адрес электронной почты, организацию и другие данные. В соответствии с требованиями GDPR изменить эти сведения можете только вы. Вы также можете разрешить редактору видеть эту информацию в вашем профиле."
+
+msgid "acceptInvitation.userDetails.nextButtonLabel"
+msgstr "Сохранить и продолжить"
+
+msgid "acceptInvitation.userDetails.form.name"
+msgstr "Форма сведений о пользователе, принимающем приглашение"
+
+msgid "acceptInvitation.userDetails.form.description"
+msgstr "Укажите следующие сведения, необходимые для управления вашей учётной записью"
+
+msgid "acceptInvitation.detailsReview.stepName"
+msgstr "Проверка и создание учётной записи"
+
+msgid "acceptInvitation.detailsReview.stepLabel"
+msgstr "{$step} — Проверка и создание учётной записи"
+
+msgid "acceptInvitation.skipVerifyOrcid"
+msgstr "Пропустить подтверждение ORCID"
+
+msgid "acceptInvitation.verifyOrcid"
+msgstr "Подтвердить ORCID iD"
+
+msgid "acceptInvitation.usernameField.description"
+msgstr "Можно использовать сочетание прописных и строчных букв или цифр"
+
+msgid "acceptInvitation.passwordField.description"
+msgstr "Пароль должен содержать не менее 6 символов и может включать прописные и строчные буквы, цифры и специальные символы"
+
+msgid "acceptInvitation.privacyStatement.label"
+msgstr "Да, я согласен на сбор и хранение моих данных в соответствии с документом {$url}"
+
+msgid "acceptInvitation.privacyStatement.btn"
+msgstr "Заявление о конфиденциальности"
+
+msgid "acceptInvitation.userDetailsForm.givenName.description"
+msgstr "Имя — это часть личного имени, которая идентифицирует человека."
+
+msgid "acceptInvitation.userDetailsForm.familyName.description"
+msgstr "Фамилия — это обычно наследуемая часть личного имени, указывающая на принадлежность человека к семье."
+
+msgid "acceptInvitation.userDetailsForm.affiliation.description"
+msgstr "Организация, с которой вы связаны"
+
+msgid "acceptInvitation.userDetailsForm.countryOfAffiliation.description"
+msgstr "Страна, в которой находится указанная вами организация"
+
+msgid "acceptInvitation.userDetailsForm.countryOfAffiliation.label"
+msgstr "Страна организации"
+
+msgid "acceptInvitation.review.accountDetails"
+msgstr "Данные учётной записи"
+
+msgid "acceptInvitation.review.userDetails"
+msgstr "Сведения о пользователе"
+
+msgid "acceptInvitation.modal.button"
+msgstr "Просмотреть все материалы"
+
+msgid "invitation.tableHeader.name"
+msgstr "Имя"
+
+msgid "invitation.searchForm.emptyError"
+msgstr "Укажите хотя бы один критерий поиска."
+
+msgid "invitation.wizard.viewPageTitleDescription"
+msgstr "Вы просматриваете сведения о пользователе {$name}"
+
+msgid "invitation.cancelInvite.actionName"
+msgstr "Отменить приглашение"
+
+msgid "invitation.cancelInvite.title"
+msgstr "Отмена приглашения"
+
+msgid "invitation.cancelInvite.message"
+msgstr "Отмена приглашения, отправленного пользователю {$givenName} {$familyName}, сделает недействительной ссылку для принятия из письма. Сведения о приглашении: "
+
+msgid "invitation.masthead.show"
+msgstr "Показывать в составе редакции"
+
+msgid "invitation.masthead.hidden"
+msgstr "Не показывать в составе редакции"
+
+msgid "invitation.role.modifyRole.button"
+msgstr "Изменить роль"
+
+msgid "invitation.management.options"
+msgstr "Параметры управления приглашением"
+
+msgid "userInvitation.cancel.message"
+msgstr "Вы уверены, что хотите отменить это приглашение?"
+
+msgid "userInvitation.cancel.goBack"
+msgstr "Назад"
+
+msgid "userInvitation.status.invited"
+msgstr "Приглашён {$date}"
+
+msgid "userInvitation.edit.title"
+msgstr "Редактирование приглашения"
+
+msgid "userInvitation.edit.message"
+msgstr "Если изменить существующее приглашение или добавить новую роль, текущее приглашение будет отменено и отправлено новое. Продолжить?"
+
+msgid "validation.after_or_equal"
+msgstr "Дата начала должна быть не раньше сегодняшней даты"
+
+msgid "invitation.removeRoles"
+msgstr "Пользователь удалён из роли"
+
+msgid "acceptInvitation.privacyStatement.validation"
+msgstr "Подтвердите, что вы прочитали заявление о конфиденциальности и согласны с ним"
+
+msgid "acceptInvitation.cancel.message"
+msgstr "Вы уверены, что хотите отменить действие? Процесс принятия роли будет остановлен. Чтобы снова принять роль, потребуется перейти по ссылке из письма с приглашением. Если у вас уже есть учётная запись, вы вернётесь на панель управления. В противном случае для повторного запуска процесса потребуется письмо с приглашением."
+
+msgid "acceptInvitation.cancelInvite.title"
+msgstr "Отменить процесс принятия приглашения на роль?"
+
+msgid "acceptInvitation.cancelInvite.button"
+msgstr "Отменить процесс приглашения"
+
+msgid "acceptInvitation.authorization.shouldBeAnonymous"
+msgstr "Приглашение не принято. Вы вошли в систему как другой пользователь."
+
+msgid "acceptInvitation.authorization.message"
+msgstr "Выйдите из системы и войдите в нужную учётную запись, чтобы принять это приглашение."
+
+msgid "userInvitation.searchField"
+msgstr "Найдите пользователя по адресу электронной почты, имени пользователя или ORCID iD. Для начала укажите только одно значение."
+
+msgid "userInvitation.user.disableTitle"
+msgstr "Пользователь сейчас отключён."
+
+msgid "userInvitation.user.disableMessage"
+msgstr "Пользователь отключён, поэтому ему нельзя назначить роль. Сначала включите пользователя, а затем пригласите его на роль."
+
+msgid "acceptInvitation.privacyConsent"
+msgstr "Согласие на обработку персональных данных"
+
+msgid "invitation.unavailable.title"
+msgstr "Приглашение недоступно"
+
+msgid "invitation.unavailable.description"
+msgstr "Это приглашение больше недоступно. Возможно, оно уже принято, отклонено или срок его действия истёк. Обратитесь к управляющему журналом за дополнительной помощью."

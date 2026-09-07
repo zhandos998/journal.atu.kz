@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: hu\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite téma"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS téma, amelyet Dánia és Grönland Geológiai Szolgálatának terveztek, a Health Sciences témára épül. A Health Sciences téma telepítése szükséges; ellenkező esetben ez a téma nem tölti be a stílusait, sablonjait vagy hookjait."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Az Ammonite téma a Health Sciences téma telepítését igényli. Telepítse a Health Sciences témát az Ammonite téma aktiválása előtt; ellenkező esetben a stílusai és sablonjai nem töltődnek be."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Folyóirat hírei"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Letöltés"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Megosztás"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Legújabb szám"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Évf."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Olvasson tovább ebben a számban"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Szám böngészése"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finanszírozás"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrikák"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Kézirat beküldése"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Információk"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Könyvtárosok"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Bírálók"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Legyen szerkesztő"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Legyen bíráló"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Adatvédelem"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Sütik"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-hírcsatorna"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Kezdőlap első kategóriája"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Válassza ki a kezdőlapon megjelenítendő első (fő) cikk-kategóriát"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Kezdőlap második kategóriája"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Válassza ki a kezdőlapon megjelenítendő második cikk-kategóriát"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Kezdőlap harmadik kategóriája"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Válassza ki a kezdőlapon megjelenítendő harmadik cikk-kategóriát"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Nincs"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Kiemelt alkategóriák (listaként)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Válasszon egy kategóriát (a kezdőlapon listaként jelenik meg)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Kezdőlap információs blokkjának tartalma"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Adja meg a kezdőlap információs blokkjának tartalmát (a Szerzők és Könyvtárosok számára szóló információk mellett jelenik meg)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Kezdőlap információs blokkjának címe"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Adja meg a kezdőlap információs blokkjának címét"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Kezdőlap cikkei"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Adja meg a kezdőlap minden kategóriájában megjelenítendő cikkek számát."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logó a lábléchez"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Válassza ki a láblécben az OJS logó felett megjelenítendő logófájlt"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Hivatkozás az X közösségi médiára"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Hivatkozás a YouTube-ra"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Hivatkozás a LinkedInre"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Hivatkozás az Instagramra"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Válasszon fájlt"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "1. láblécelem szövege"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Adja meg az 1. láblécelem szövegét, amely a lábléc hivatkozáslistájában jelenik meg"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "1. láblécelem URL-je"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Adja meg az 1. láblécelem URL-jét (átirányítja a felhasználót)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "2. láblécelem szövege"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Adja meg a 2. láblécelem szövegét, amely a lábléc hivatkozáslistájában jelenik meg."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "2. láblécelem URL-je"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, amelyre a 2. láblécelem (átirányítja a felhasználót)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "3. láblécelem szövege"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Adja meg a 3. láblécelem szövegét, amely a lábléc hivatkozáslistájában jelenik meg."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "3. láblécelem URL-je"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, amelyre a 3. láblécelem (átirányítja a felhasználót)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "A Folyóirat hírei szakasz háttérszíne"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Válasszon színt a kezdőlap Folyóirat hírei szakaszának háttérkitöltéséhez."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Az Információk szakasz háttérszíne"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Válasszon színt a kezdőlap Információk szakaszának háttérkitöltéséhez."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Keresési eredmények"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Alapértelmezett kép a szám borítójához"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Válasszon képet, amely borítóként jelenik meg, ha a számhoz nem tartozik saját."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Alapértelmezett kép a cikkhez"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Válasszon képet az olyan cikkekhez, amelyekhez nem tartozik saját."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategória, amelynek első alkategóriáját a cikkben meg kell jeleníteni"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Válasszon szülő kategóriát, és a rendszer megjeleníti az első olyan alkategóriát ebből, amelyet a cikkhez rendeltek."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "A szakasz elrejtése vagy megjelenítése a cikk oldalán"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Ha megjelenítve, a 'szakasz' nevű rész megjelenik a cikk célbaérkezési oldalán."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "A kategóriák szakasz elrejtése vagy megjelenítése a cikk oldalán"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Ha megjelenítve, a 'kategóriák' nevű rész megjelenik a cikk célbaérkezési oldalán."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Elrejtés"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Megjelenítés"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Nincs beállítva cikk-kép."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "A szám borítója hamarosan."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Használja a keresőűrlapot a közzétett cikkek kereséséhez archívumainkban."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Első oldal"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Előző oldal"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Következő oldal"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Utolsó oldal"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt szöveg a lábléc logójához."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "A fent kiválasztott lábléc logóképéhez tartozó alt szöveg."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "A hivatkozás, amelyre a lábléc ügyféllogójának át kell irányítania."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "A hivatkozás, amelyre a lábléc logóképének át kell irányítania."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Megjelenítendő cikk metaadatok."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Válassza ki, mely alábbi metaadatok jelenhetnek meg a cikk oldalán."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Cikkeket megjelenítendő kategóriák a kezdőlapon."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Válassza ki a kezdőlapon megjelenítendő cikk-kategóriákat."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategóriák"

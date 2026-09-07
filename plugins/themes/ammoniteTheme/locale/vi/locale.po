@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: vi\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Chủ đề Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Chủ đề OJS được thiết kế cho Cục Khảo sát Địa chất Đan Mạch và Greenland, dựa trên Health Sciences. Yêu cầu cài đặt chủ đề Health Sciences; nếu không, chủ đề này sẽ không tải các kiểu, mẫu hoặc hook của nó."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Chủ đề Ammonite yêu cầu cài đặt chủ đề Health Sciences. Cài đặt Health Sciences trước khi kích hoạt chủ đề Ammonite; nếu không, các kiểu và mẫu của nó sẽ không được tải."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Tin tức tạp chí"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Tải xuống"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Chia sẻ"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Số mới nhất"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Tập"
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Đọc thêm trong số này"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Duyệt số"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Tài trợ"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Chỉ số"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Gửi bản thảo"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Thông tin"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Thủ thư"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Người phản biện"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Trở thành biên tập viên"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Trở thành người phản biện"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Quyền riêng tư"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookie"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "Nguồn cấp RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Danh mục đầu tiên của trang chủ"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Chọn danh mục bài báo đầu tiên (trên cùng) để hiển thị trên trang chủ"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Danh mục thứ hai của trang chủ"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Chọn danh mục bài báo thứ hai để hiển thị trên trang chủ"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Danh mục thứ ba của trang chủ"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Chọn danh mục bài báo thứ ba để hiển thị trên trang chủ"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Không có"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Danh mục con nổi bật (dưới dạng danh sách)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Chọn một danh mục (hiển thị trên trang chủ dưới dạng danh sách)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Nội dung khối thông tin trang chủ"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Nhập nội dung cho khối thông tin trang chủ (hiển thị cùng với thông tin dành cho Tác giả và Thủ thư)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Tiêu đề khối thông tin trang chủ"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Nhập tiêu đề cho khối thông tin trang chủ"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Bài báo trên trang chủ"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Nhập số lượng bài báo sẽ được hiển thị trong mỗi danh mục trên trang chủ."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo cho chân trang"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Chọn tệp logo sẽ được hiển thị ngay trên logo OJS trong chân trang"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Liên kết cho Mạng xã hội X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Liên kết cho YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Liên kết cho LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Liên kết cho Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Chọn tệp"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Văn bản mục 1 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Nhập văn bản cho mục 1 chân trang sẽ được hiển thị trong danh sách liên kết chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL mục 1 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Nhập URL cho mục 1 chân trang (sẽ chuyển hướng người dùng)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Văn bản mục 2 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Nhập văn bản cho mục 2 chân trang sẽ được hiển thị trong danh sách liên kết chân trang."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL mục 2 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL mà mục 2 chân trang (sẽ chuyển hướng người dùng)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Văn bản mục 3 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Nhập văn bản cho mục 3 chân trang sẽ được hiển thị trong danh sách liên kết chân trang."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL mục 3 chân trang"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL mà mục 3 chân trang (sẽ chuyển hướng người dùng)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Màu cho nền phần Tin tức tạp chí"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Chọn một màu để tô nền phần Tin tức tạp chí trên trang chủ."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Màu cho nền phần Thông tin"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Chọn một màu để tô nền phần Thông tin trên trang chủ."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Kết quả tìm kiếm cho"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Hình ảnh mặc định cho bìa số"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Chọn một hình ảnh sẽ được sử dụng làm hình bìa khi số không có."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Hình ảnh mặc định cho bài báo"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Chọn một hình ảnh sẽ được sử dụng cho các bài báo không có."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Danh mục để hiển thị danh mục con đầu tiên trên bài báo"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Chọn một danh mục cha và hệ thống sẽ hiển thị danh mục con đầu tiên từ danh mục này được gán cho bài báo."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Ẩn hoặc Hiện phần trên trang bài báo"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Nếu hiện, một phần được gọi là 'phần' sẽ xuất hiện trên trang đích của bài báo."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Ẩn hoặc Hiện phần danh mục trên trang bài báo"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Nếu hiện, một phần được gọi là 'danh mục' sẽ xuất hiện trên trang đích của bài báo."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Ẩn"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Hiện"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Không có hình ảnh bài báo được đặt."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Bìa số sắp có."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Sử dụng biểu mẫu tìm kiếm để tìm các bài báo đã xuất bản từ kho lưu trữ của chúng tôi."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Trang đầu"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Trang trước"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Trang sau"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Trang cuối"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Văn bản alt cho logo chân trang."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Văn bản alt cho hình ảnh logo chân trang được chọn ở trên."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Liên kết mà logo khách hàng trong chân trang nên chuyển hướng đến."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Liên kết mà hình ảnh logo chân trang nên chuyển hướng đến."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Siêu dữ liệu bài báo để hiển thị."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Chọn siêu dữ liệu nào sau đây có thể xuất hiện trên trang bài báo."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Danh mục để hiển thị Bài báo trên Trang chủ."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Chọn danh mục bài báo để hiển thị trên trang chủ."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Danh mục"

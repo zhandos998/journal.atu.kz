@@ -1,0 +1,168 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_main.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Styles for the main content
+ */
+
+.moveArrow() {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(10px);
+    }
+}
+
+a {
+    .ammonite-link-icon {
+        display: inline-block;
+        margin-left: 0.5rem;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    &:hover {
+        .ammonite-link-icon {
+            transform: translateX(20px);
+        }
+    }
+}
+
+.ammonite-login-section {
+    background-color: @colour-light-blue;
+    padding: 3rem;
+}
+
+.galley_view {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: hidden;
+
+    & iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+}
+
+.ammonite-search-pagination {
+    > *:first-child {
+        margin-left: auto;
+    }
+}
+
+.ammonite-html-view-header {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to right, @colour-strong-blue 0%, @colour-strong-blue 30%, transparent 30%, transparent 70%, @colour-strong-blue 70%, @colour-strong-blue 100%);
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    background-color: @colour-white !important;
+    z-index: 999;
+}
+
+.display-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    grid-gap: 20px;
+}
+
+.ammonite-pdf-html-title-row {
+    width: calc(~"100% - 187px") !important;
+}
+
+.form-check-input:checked {
+	border-color: @colour-black;
+	background: @primary-colour;
+}
+
+@media (min-width: 1200px) {
+    .max-w-xl-900 {
+        max-width: 900px !important;
+    }
+
+    .max-w-xl-1200 {
+        max-width: 1200px !important;
+    }
+
+    .max-w-xl-1110 {
+        max-width: 1110px !important;
+    }
+}
+
+@media (max-width: 1200px) {
+    .px-tablet-0 {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .pkp_block {
+        flex: 0 0 33.3%;
+        width: 33.3%;
+    }
+
+    .col-lg-mid-10 {
+        flex: 0 0 auto;
+        width: 80% !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .pkp_block {
+        flex: 0 0 50%;
+        width: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width: 767.9px) {
+    .display-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 767px) {
+    .pkp_block {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(min-width: 575px) {
+    .max-w-sm-900 {
+        max-width: 900px !important;
+    }
+}
+
+@media(max-width: 575px) {
+    .badge_total {
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .ammonite-app-menu-border {
+        border-top: 1px solid @colour-dark-grey;
+    }
+
+    .ammonite-pdf-html-title-row {
+        width: calc(~"100% - 187px") !important;
+    }
+}

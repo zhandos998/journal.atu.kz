@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: lt\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite tema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS tema, sukurta Danijos ir Grenlandijos geologijos tarnybai, paremta Health Sciences tema. Reikalauja įdiegtos Health Sciences temos; priešingu atveju ši tema neįkels savo stilių, šablonų ar hook'ų."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite temai reikalinga įdiegta Health Sciences tema. Prieš aktyvuodami Ammonite temą, įdiekite Health Sciences; priešingu atveju jos stiliai ir šablonai nebus įkelti."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Žurnalo naujienos"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Atsisiųsti"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Bendrinti"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Naujausias numeris"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "T."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Skaityti daugiau šiame numeryje"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Naršyti numerį"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finansavimas"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrikos"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Pateikti rankraštį"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informacija"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotekininkai"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Recenzentai"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Tapkite redaktoriumi"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Tapkite recenzentu"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privatumas"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Slapukai"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS srautas"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Pagrindinio puslapio pirmoji kategorija"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Pasirinkite pirmąją (viršutinę) straipsnių kategoriją, rodomą pagrindiniame puslapyje"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Pagrindinio puslapio antroji kategorija"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Pasirinkite antrąją straipsnių kategoriją, rodomą pagrindiniame puslapyje"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Pagrindinio puslapio trečioji kategorija"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Pasirinkite trečiąją straipsnių kategoriją, rodomą pagrindiniame puslapyje"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Nėra"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Išskirtos subkategorijos (kaip sąrašas)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Pasirinkite kategoriją (rodoma pagrindiniame puslapyje kaip sąrašas)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Pagrindinio puslapio informacijos bloko turinys"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Įveskite pagrindinio puslapio informacijos bloko turinį (rodomas šalia informacijos autoriams ir bibliotekininkams)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Pagrindinio puslapio informacijos bloko pavadinimas"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Įveskite pagrindinio puslapio informacijos bloko pavadinimą"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Pagrindinio puslapio straipsniai"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Įveskite straipsnių skaičių, kurie bus rodomi kiekvienoje pagrindinio puslapio kategorijoje."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logotipas poraštei"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Pasirinkite logotipo failą, kuris bus rodomas tiesiai virš OJS logotipo poraštėje"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Socialinės medijos X nuoroda"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "YouTube nuoroda"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "LinkedIn nuoroda"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Instagram nuoroda"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Pasirinkite failą"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Poraštės elemento 1 tekstas"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Įveskite tekstą poraštės elementui 1, kuris bus rodomas poraštės nuorodų sąraše"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Poraštės elemento 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Įveskite URL poraštės elementui 1 (nukreips vartotoją)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Poraštės elemento 2 tekstas"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Įveskite tekstą poraštės elementui 2, kuris bus rodomas poraštės nuorodų sąraše."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Poraštės elemento 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, į kurį poraštės elementas 2 (nukreips vartotoją)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Poraštės elemento 3 tekstas"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Įveskite tekstą poraštės elementui 3, kuris bus rodomas poraštės nuorodų sąraše."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Poraštės elemento 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, į kurį poraštės elementas 3 (nukreips vartotoją)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Žurnalo naujienų skyriaus fono spalva"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Pasirinkite spalvą užpildyti Žurnalo naujienų skyriaus fonui pagrindiniame puslapyje."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Informacijos skyriaus fono spalva"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Pasirinkite spalvą užpildyti Informacijos skyriaus fonui pagrindiniame puslapyje."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Paieškos rezultatai"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Numatytas numerio viršelio paveikslėlis"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Pasirinkite paveikslėlį, kuris bus naudojamas kaip viršelio paveikslėlis, kai numeris jo neturi."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Numatytas straipsnio paveikslėlis"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Pasirinkite paveikslėlį, kuris bus naudojamas straipsniams, kurie jo neturi."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategorija, kurios pirmąją subkategoriją rodyti straipsnyje"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Pasirinkite pagrindinę kategoriją ir sistema parodys pirmąją subkategoriją iš jos, kuri yra priskirta straipsniui."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Slėpti arba rodyti skyrelį straipsnio puslapyje"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Jei rodyti, straipsnio nukreipimo puslapyje atsiras skyrelis pavadinimu 'skyrelis'."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Slėpti arba rodyti kategorijų skyrelį straipsnio puslapyje"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Jei rodyti, straipsnio nukreipimo puslapyje atsiras skyrelis pavadinimu 'kategorijos'."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Slėpti"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Rodyti"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Straipsnio paveikslėlis nenustatytas."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Numerio viršelis greitai."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Naudokite paieškos formą, kad rastumėte paskelbtus straipsnius mūsų archyvuose."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Pirmas puslapis"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Ankstesnis puslapis"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Kitas puslapis"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Paskutinis puslapis"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt tekstas poraštės logotipui."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt tekstas aukščiau pasirinktam poraštės logotipo paveikslėliui."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Nuoroda, į kurią poraštės kliento logotipas turėtų nukreipti."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Nuoroda, į kurią poraštės logotipo paveikslėlis turėtų nukreipti."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Rodomi straipsnio metaduomenys."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Pasirinkite, kurie iš šių metaduomenų gali atsirasti straipsnio puslapyje."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategorijos straipsniams rodyti pagrindiniame puslapyje."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Pasirinkite straipsnių kategorijas, rodomas pagrindiniame puslapyje."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategorijos"

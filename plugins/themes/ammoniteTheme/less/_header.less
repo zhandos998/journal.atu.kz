@@ -1,0 +1,210 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_header.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Styles for the header and navigation menus
+ */
+
+.user-details {
+    ul {
+        padding-left: 0;
+        padding-right: 0;
+
+        li {
+            a {
+                transition: all 0.2s ease-out;
+            }
+
+			&:hover {
+				a {
+					.mobile-block-style(@colour-on-primary-menu-hover);
+				}
+			}
+        }
+    }
+}
+
+li {
+	&.shariff-button {
+		.shariff-button-size();
+
+		a {
+			border: 0 !important;
+			display: flex !important;
+			align-items: center !important;
+			justify-content: center !important;
+
+			.shariff-button-size();
+		}
+	}
+}
+
+a {
+	&.nav-link.dropdown-toggle {
+		&.ammonite-header-section-text {
+			&[aria-expanded="true"] {
+				background-color: @colour-dark-grey;
+				color: @colour-white!important;
+			}
+		}
+	}
+}
+
+.ammonite-primary-navigation-menu-section {
+	margin-bottom: 1.5rem;
+}
+
+.dropdown-menu {
+	&.ammonite-primary-navigation-menu {
+		&.py-3 {
+			background-color: @primary-colour;
+		}
+
+		.ammonite-header-menu-item-text {
+			&:hover {
+				.mobile-block-style(@colour-on-primary-menu-hover);
+			}
+		}
+
+		.ammonite-header-menu-item-text {
+			transition: background-color 0.3s ease-out;
+		}
+	}
+}
+
+.ammonite-bg-primary {
+	background-color: @primary-colour;
+}
+
+.ammonite-inner-border-bottom {
+	border-bottom: 1px solid @colour-dark-grey !important;
+}
+
+@media(max-width: 767.9px) {
+	.ammonite-inner-border-bottom {
+        border-bottom: 0 !important;
+    }
+
+	.ammonite-primary-menu-item {
+        transition: background-color 0.3s ease-out;
+    }
+
+	.ammonite-xs-border {
+        border-bottom: 1px solid @colour-dark-grey;
+        margin: -0.5rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 799.9px) {
+	.ammonite-inner-border-bottom {
+        border-bottom: 0 !important;
+    }
+
+	.ammonite-primary-menu-item {
+        transition: none;
+    }
+
+	.ammonite-xs-border {
+        border-bottom: 1px solid @colour-dark-grey;
+        margin: -0.5rem;
+    }
+
+	.navbar-expand-md {
+		.navbar-collapse {
+			display: block !important;
+			flex-basis: auto;
+
+			&:not(.show) {
+				display: none !important;
+			}
+		}
+
+		.navbar-toggler {
+			display: block;
+		}
+
+		.navbar-nav {
+			flex-direction: column;
+		}
+	}
+
+	.collapse:not(.show) {
+		display: none;
+	}
+
+	.ammonite-primary-menu-item {
+		&:hover {
+			background-color: @primary-colour!important;
+		}
+	}
+
+    .ammonite-submenu-item {
+        transition: all 0.3s;
+
+		&:hover {
+			.mobile-block-style(@colour-on-primary-menu-hover);
+		}
+    }
+
+	li {
+		&.ammonite-primary-menu-item.ammonite-no-hover {
+			&:hover {
+				background-color: @primary-colour;
+			}
+		}
+	}
+}
+
+@media (min-width: 799.9px) {
+    .d-mid-md-block {
+        display: block !important;
+    }
+
+    .d-mid-md-none {
+        display: none !important;
+    }
+
+    .d-mid-md-inline {
+        display: inline !important;
+    }
+
+    .d-mid-md-flex {
+        display: flex !important;
+    }
+
+    .pb-mid-md-4 {
+        padding-bottom: 1.5rem !important;
+    }
+}
+
+@media (max-width: 799.9px) {
+	.ammonite-primary-navigation-menu-section {
+		margin-bottom: 0;
+		background-color: @colour-white !important;
+	}
+
+	.ammonite-primary-menu-item {
+		background-color: @primary-colour;
+		transition: background-color 0.3s ease-out;
+	}
+
+	li {
+		&.ammonite-primary-menu-item.ammonite-no-hover {
+			&:hover {
+				background-color: @primary-colour;
+			}
+		}
+	}
+
+	button.navbar-toggler {
+		color: var(--bs-navbar-color) !important;
+		background-color: transparent !important;
+
+		&:focus {
+			box-shadow: none !important;
+		}
+	}
+}

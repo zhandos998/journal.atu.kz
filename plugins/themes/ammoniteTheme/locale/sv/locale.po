@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: sv\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite-tema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Ett OJS-tema utformat för Danmarks och Grönlands geologiska undersökning, baserat på Health Sciences. Kräver att Health Sciences-temat är installerat; annars kommer detta tema inte att ladda sina stilar, mallar eller hooks."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite-temat kräver att Health Sciences-temat är installerat. Installera Health Sciences innan du aktiverar Ammonite-temat; annars laddas inte dess stilar och mallar."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Tidskriftsnyheter"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Ladda ner"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Dela"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Senaste numret"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vol."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Läs mer i detta nummer"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Bläddra i numret"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finansiering"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Statistik"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Skicka in ett manuskript"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Information"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotekarier"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Granskare"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Bli redaktör"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Bli granskare"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Integritet"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Kakor"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-flöde"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Första kategorin på startsidan"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Välj den första (översta) artikelkategorin som ska visas på startsidan"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Andra kategorin på startsidan"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Välj den andra artikelkategorin som ska visas på startsidan"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Tredje kategorin på startsidan"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Välj den tredje artikelkategorin som ska visas på startsidan"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Ingen"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Utvalda underkategorier (som lista)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Välj en kategori (visas på startsidan som en lista)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Innehåll i informationsblocket på startsidan"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Ange innehåll för informationsblocket på startsidan (visas bredvid information för författare och bibliotekarier)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Rubrik för informationsblocket på startsidan"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Ange rubriken för informationsblocket på startsidan"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Artiklar på startsidan"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Ange antalet artiklar som ska visas i varje kategori på startsidan."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logotyp för sidfot"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Välj logotypfilen som ska visas direkt ovanför OJS-logotypen i sidfoten"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Länk till sociala medier X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Länk till YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Länk till LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Länk till Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Välj en fil"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Text för sidfotsobjekt 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Ange texten för sidfotsobjekt 1 som ska visas i sidfotens länklista"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL för sidfotsobjekt 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Ange URL:en för sidfotsobjekt 1 (kommer att omdirigera användaren)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Text för sidfotsobjekt 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Ange texten för sidfotsobjekt 2 som ska visas i sidfotens länklista."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL för sidfotsobjekt 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL som sidfotsobjekt 2 (kommer att omdirigera användaren)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Text för sidfotsobjekt 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Ange texten för sidfotsobjekt 3 som ska visas i sidfotens länklista."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL för sidfotsobjekt 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL som sidfotsobjekt 3 (kommer att omdirigera användaren)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Färg för bakgrunden i avsnittet Tidskriftsnyheter"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Välj en färg för att fylla bakgrunden i avsnittet Tidskriftsnyheter på startsidan."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Färg för bakgrunden i avsnittet Information"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Välj en färg för att fylla bakgrunden i avsnittet Information på startsidan."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Sökresultat för"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Standardbild för nummerförstasida"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Välj en bild som ska användas som omslagsbild när numret inte har någon."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Standardbild för artikel"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Välj en bild som ska användas för artiklar som inte har någon."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategori för att visa första underkategori på artikel"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Välj en överordnad kategori och systemet kommer att visa den första underkategorin från denna som är tilldelad artikeln."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Dölj eller visa sektion på artikelsidan"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Om visa, kommer ett avsnitt kallat 'sektion' att visas på artikelns landningssida."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Dölj eller visa kategorisektion på artikelsidan"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Om visa, kommer ett avsnitt kallat 'kategorier' att visas på artikelns landningssida."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Dölj"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Visa"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Ingen artikelbild angiven."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Nummeromslag kommer snart."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Använd sökformuläret för att hitta publicerade artiklar i vårt arkiv."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Första sidan"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Föregående sida"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Nästa sida"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Sista sidan"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-text för sidfotens logotyp."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-texten för sidfotens logotypbild som valts ovan."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Länken dit sidfotens klientlogotyp ska omdirigera."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Länken dit sidfotens logotypbild ska omdirigera."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Artikelmetadata att visa."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Välj vilka av följande metadata som kan visas på artikelsidan."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategorier för att visa artiklar på startsidan."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Välj artikelkategorier som ska visas på startsidan."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategorier"

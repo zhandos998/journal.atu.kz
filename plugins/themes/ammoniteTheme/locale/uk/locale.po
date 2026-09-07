@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: uk\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Тема Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Тема OJS, розроблена для Геологічної служби Данії та Ґренландії, заснована на Health Sciences. Потребує встановленої теми Health Sciences; інакше ця тема не завантажить свої стилі, шаблони або hooks."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Тема Ammonite потребує встановленої теми Health Sciences. Встановіть Health Sciences перед активацією теми Ammonite; інакше її стилі та шаблони не будуть завантажені."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Новини журналу"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Завантажити"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Поділитися"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Останній випуск"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Т."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Читати більше в цьому випуску"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Переглянути випуск"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Фінансування"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Метрики"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Подати рукопис"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Інформація"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Бібліотекарі"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Рецензенти"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Стати редактором"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Стати рецензентом"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Конфіденційність"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookies"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-канал"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Перша категорія домашньої сторінки"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Виберіть першу (верхню) категорію статей для відображення на домашній сторінці"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Друга категорія домашньої сторінки"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Виберіть другу категорію статей для відображення на домашній сторінці"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Третя категорія домашньої сторінки"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Виберіть третю категорію статей для відображення на домашній сторінці"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Жодна"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Виділені підкатегорії (як список)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Виберіть категорію (відображається на домашній сторінці як список)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Вміст інформаційного блоку домашньої сторінки"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Введіть вміст для інформаційного блоку домашньої сторінки (відображається поруч з інформацією для авторів та бібліотекарів)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Заголовок інформаційного блоку домашньої сторінки"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Введіть заголовок інформаційного блоку домашньої сторінки"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Статті на домашній сторінці"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Введіть кількість статей, які будуть показані в кожній категорії на домашній сторінці."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Логотип для підвалу"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Виберіть файл логотипа, який буде показаний прямо над логотипом OJS у підвалі"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Посилання на соціальну мережу X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Посилання на YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Посилання на LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Посилання на Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Виберіть файл"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Текст елемента 1 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Введіть текст для елемента 1 підвалу, який буде показаний у списку посилань підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL елемента 1 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Введіть URL для елемента 1 підвалу (перенаправить користувача)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Текст елемента 2 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Введіть текст для елемента 2 підвалу, який буде показаний у списку посилань підвалу."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL елемента 2 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, на який елемент 2 підвалу (перенаправить користувача)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Текст елемента 3 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Введіть текст для елемента 3 підвалу, який буде показаний у списку посилань підвалу."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL елемента 3 підвалу"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, на який елемент 3 підвалу (перенаправить користувача)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Колір фону розділу Новини журналу"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Виберіть колір для заповнення фону розділу Новини журналу на домашній сторінці."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Колір фону розділу Інформація"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Виберіть колір для заповнення фону розділу Інформація на домашній сторінці."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Результати пошуку для"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Зображення за замовчуванням для обкладинки випуску"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Виберіть зображення, яке буде використовуватися як обкладинка, коли випуск його не має."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Зображення за замовчуванням для статті"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Виберіть зображення, яке буде використовуватися для статей, які його не мають."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Категорія для показу першої підкатегорії на статті"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Виберіть батьківську категорію, і система покаже першу підкатегорію з неї, яка призначена статті."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Сховати чи показати розділ на сторінці статті"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Якщо показати, на цільовій сторінці статті з'явиться розділ із назвою «розділ»."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Сховати чи показати розділ категорій на сторінці статті"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Якщо показати, на цільовій сторінці статті з'явиться розділ із назвою «категорії»."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Сховати"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Показати"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Зображення статті не встановлено."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Обкладинка випуску незабаром."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Використовуйте форму пошуку, щоб знайти опубліковані статті з наших архівів."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Перша сторінка"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Попередня сторінка"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Наступна сторінка"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Остання сторінка"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-текст для логотипа підвалу."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-текст для вибраного вище зображення логотипа підвалу."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Посилання, на яке має перенаправляти логотип клієнта у підвалі."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Посилання, на яке має перенаправляти зображення логотипа у підвалі."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Метадані статті для відображення."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Виберіть, які з наступних метаданих можуть з'являтися на сторінці статті."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Категорії для показу статей на домашній сторінці."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Виберіть категорії статей для відображення на домашній сторінці."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Категорії"

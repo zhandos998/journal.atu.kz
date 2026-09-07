@@ -62,6 +62,9 @@
 						</a>
 					{/if}
 					</div>
+					<div class="pkp_site_name">
+						<a href="{$homeUrl}" class="is_text">ATU Design Science</a>
+					</div>
 				</div>
 
 				{capture assign="primaryMenu"}

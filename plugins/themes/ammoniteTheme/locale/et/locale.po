@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: et\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite teema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS teema, mis on loodud Taani ja Gröönimaa Geoloogiateenistuse jaoks, põhineb Health Sciences teemal. Nõuab Health Sciences teema paigaldamist; vastasel juhul ei lae see teema oma stiile, malle ega hookide."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite teema nõuab Health Sciences teema paigaldamist. Paigaldage Health Sciences enne Ammonite teema aktiveerimist; vastasel juhul ei laeta selle stiile ega malle."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Ajakirja uudised"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Laadi alla"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Jaga"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Viimane number"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Kd."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Loe veel selles numbris"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Sirvi numbrit"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Rahastamine"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Mõõdikud"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Esita käsikiri"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Teave"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Raamatukoguhoidjad"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Retsensendid"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Saa toimetajaks"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Saa retsensendiks"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privaatsus"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Küpsised"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-voog"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Avalehe esimene kategooria"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Valige esimene (ülemine) artiklite kategooria avalehel kuvamiseks"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Avalehe teine kategooria"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Valige teine artiklite kategooria avalehel kuvamiseks"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Avalehe kolmas kategooria"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Valige kolmas artiklite kategooria avalehel kuvamiseks"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Puudub"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Esiletõstetud alamkategooriad (nimekirjana)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Valige kategooria (kuvatakse avalehel nimekirjana)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Avalehe teabeploki sisu"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Sisestage avalehe teabeploki sisu (kuvatakse autorite ja raamatukoguhoidjate teabe kõrval)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Avalehe teabeploki pealkiri"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Sisestage avalehe teabeploki pealkiri"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Avalehe artiklid"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Sisestage artiklite arv, mis näidatakse avalehe igas kategoorias."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo jaluse jaoks"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Valige logofail, mis kuvatakse otse OJS-i logo kohal jaluses"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Link sotsiaalmeediale X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Link YouTube'ile"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Link LinkedInile"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Link Instagramile"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Valige fail"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Jaluse üksuse 1 tekst"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Sisestage jaluse üksuse 1 tekst, mis kuvatakse jaluse linkide loendis"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Jaluse üksuse 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Sisestage URL jaluse üksuse 1 jaoks (suunab kasutaja ümber)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Jaluse üksuse 2 tekst"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Sisestage jaluse üksuse 2 tekst, mis kuvatakse jaluse linkide loendis."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Jaluse üksuse 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, millele jaluse üksus 2 (suunab kasutaja ümber)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Jaluse üksuse 3 tekst"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Sisestage jaluse üksuse 3 tekst, mis kuvatakse jaluse linkide loendis."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Jaluse üksuse 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, millele jaluse üksus 3 (suunab kasutaja ümber)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Ajakirja uudiste sektsiooni tausta värv"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Valige värv, et täita avalehe Ajakirja uudiste sektsiooni tausta."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Teabe sektsiooni tausta värv"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Valige värv, et täita avalehe Teabe sektsiooni tausta."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Otsingutulemused otsingule"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Vaikimisi pilt numbri kaanele"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Valige pilt, mida kasutatakse kaanepildina, kui numbril seda pole."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Vaikimisi pilt artiklile"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Valige pilt, mida kasutatakse artiklite jaoks, millel seda pole."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategooria, mille esimene alamkategooria artiklil näidata"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Valige ülemkategooria ja süsteem näitab selle esimest alamkategooriat, mis on artiklile määratud."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Peida või näita rubriiki artikli lehel"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Kui näidata, ilmub artikli sihtlehel sektsioon nimega 'rubriik'."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Peida või näita kategooriate sektsiooni artikli lehel"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Kui näidata, ilmub artikli sihtlehel sektsioon nimega 'kategooriad'."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Peida"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Näita"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Artikli pilti pole määratud."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Numbri kaas tuleb varsti."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Kasutage otsinguvormi, et leida avaldatud artikleid meie arhiividest."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Esimene leht"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Eelmine leht"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Järgmine leht"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Viimane leht"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-tekst jaluse logo jaoks."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt-tekst eespool valitud jaluse logopildi jaoks."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Link, kuhu jaluse kliendilogo peab suunama."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Link, kuhu jaluse logopilt peab suunama."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Näidatavad artikli metaandmed."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Valige, millised järgnevatest metaandmetest võivad artikli lehel ilmuda."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategooriad artiklite näitamiseks avalehel."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Valige artikli kategooriad avalehel kuvamiseks."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategooriad"

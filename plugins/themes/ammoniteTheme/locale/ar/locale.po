@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ar\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "قالب Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "قالب OJS مصمم لهيئة المسح الجيولوجي للدنمارك وجرينلاند، يستند إلى Health Sciences. يتطلب تثبيت قالب Health Sciences؛ وإلا فلن يقوم هذا القالب بتحميل أنماطه أو قوالبه أو خطافاته."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "يتطلب قالب Ammonite تثبيت قالب Health Sciences. قم بتثبيت Health Sciences قبل تفعيل قالب Ammonite؛ وإلا فلن يتم تحميل أنماطه وقوالبه."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "أخبار المجلة"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "تنزيل"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "مشاركة"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "أحدث عدد"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "مج."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "اقرأ المزيد في هذا العدد"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "تصفح العدد"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "التمويل"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "المقاييس"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "إرسال مخطوط"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "معلومات"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "أمناء المكتبات"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "المحكمون"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "كن محررًا"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "كن محكمًا"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "الخصوصية"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "ملفات تعريف الارتباط"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "تغذية RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "الفئة الأولى للصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "اختر الفئة الأولى (العلوية) من المقالات لعرضها على الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "الفئة الثانية للصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "اختر الفئة الثانية من المقالات لعرضها على الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "الفئة الثالثة للصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "اختر الفئة الثالثة من المقالات لعرضها على الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "لا شيء"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "الفئات الفرعية المميزة (كقائمة)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "اختر فئة (تُعرض على الصفحة الرئيسية كقائمة)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "محتوى كتلة المعلومات في الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "أدخل محتوى كتلة المعلومات في الصفحة الرئيسية (تُعرض بجانب المعلومات للمؤلفين وأمناء المكتبات)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "عنوان كتلة المعلومات في الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "أدخل عنوان كتلة المعلومات في الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "مقالات الصفحة الرئيسية"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "أدخل عدد المقالات التي ستُعرض في كل فئة على الصفحة الرئيسية."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "شعار للتذييل"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "اختر ملف الشعار الذي سيُعرض أعلى شعار OJS مباشرة في التذييل"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "رابط وسائل التواصل الاجتماعي X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "رابط YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "رابط LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "رابط Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "اختر ملفًا"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "نص عنصر التذييل 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "أدخل نص عنصر التذييل 1 الذي سيُعرض في قائمة روابط التذييل"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "رابط عنصر التذييل 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "أدخل رابط عنصر التذييل 1 (سيعيد توجيه المستخدم)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "نص عنصر التذييل 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "أدخل نص عنصر التذييل 2 الذي سيُعرض في قائمة روابط التذييل."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "رابط عنصر التذييل 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "الرابط الذي عنصر التذييل 2 (سيعيد توجيه المستخدم)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "نص عنصر التذييل 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "أدخل نص عنصر التذييل 3 الذي سيُعرض في قائمة روابط التذييل."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "رابط عنصر التذييل 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "الرابط الذي عنصر التذييل 3 (سيعيد توجيه المستخدم)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "لون خلفية قسم أخبار المجلة"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "اختر لونًا لملء خلفية قسم أخبار المجلة على الصفحة الرئيسية."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "لون خلفية قسم المعلومات"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "اختر لونًا لملء خلفية قسم المعلومات على الصفحة الرئيسية."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "نتائج البحث عن"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "الصورة الافتراضية لغلاف العدد"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "اختر صورة لاستخدامها كصورة غلاف عندما لا يكون للعدد صورة."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "الصورة الافتراضية للمقال"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "اختر صورة لاستخدامها للمقالات التي ليس لها صورة."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "الفئة لعرض أول فئة فرعية على المقال"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "اختر فئة رئيسية وسيعرض النظام أول فئة فرعية منها مُسندة إلى المقال."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "إخفاء أو إظهار القسم في صفحة المقال"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "إذا تم الإظهار، سيظهر قسم يسمى «قسم» في صفحة هبوط المقال."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "إخفاء أو إظهار قسم الفئات في صفحة المقال"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "إذا تم الإظهار، سيظهر قسم يسمى «الفئات» في صفحة هبوط المقال."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "إخفاء"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "إظهار"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "لم يتم تعيين صورة المقال."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "غلاف العدد قريبًا."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "استخدم نموذج البحث للعثور على المقالات المنشورة من أرشيفنا."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "الصفحة الأولى"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "الصفحة السابقة"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "الصفحة التالية"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "الصفحة الأخيرة"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "النص البديل لشعار التذييل."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "النص البديل لصورة شعار التذييل المحددة أعلاه."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "الرابط الذي يجب أن يعيد شعار العميل في التذييل التوجيه إليه."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "الرابط الذي يجب أن تعيد صورة شعار التذييل التوجيه إليه."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "بيانات وصفية للمقال ليتم عرضها."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "اختر أيًا من البيانات الوصفية التالية يمكن أن تظهر في صفحة المقال."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "فئات لعرض المقالات على الصفحة الرئيسية."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "اختر فئات المقالات لعرضها على الصفحة الرئيسية."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "الفئات"

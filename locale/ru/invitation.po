@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS 3.5.0.4\n"
+"PO-Revision-Date: 2026-06-19 00:00+0500\n"
+"Last-Translator: Local OJS translation\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "acceptInvitation.accountDetails.stepDescription"
+msgstr "Чтобы начать работу с OJS и принять новую роль, создайте учётную запись, указав имя пользователя и пароль."
+
+msgid "acceptInvitation.accountDetails.stepLabel"
+msgstr "{$step} — Создание учётной записи OJS"
+
+msgid "acceptInvitation.accountDetails.stepName"
+msgstr "Создание учётной записи OJS"
+
+msgid "acceptInvitation.detailsReview.nextButtonLabel"
+msgstr "Принять и продолжить работу в OJS"
+
+msgid "acceptInvitation.detailsReview.stepDescription"
+msgstr "Проверьте сведения, чтобы начать работу в новых ролях в OJS"
+
+msgid "acceptInvitation.modal.message"
+msgstr "Поздравляем с новой ролью в OJS! Теперь вам могут быть доступны новые возможности. Если вам потребуется помощь по работе с системой, воспользуйтесь кнопкой «Помощь»."
+
+msgid "acceptInvitation.modal.title"
+msgstr "Вам назначена новая роль в OJS"
+
+msgid "acceptInvitation.verifyOrcid.stepDescription"
+msgstr "Вы можете подтвердить свой ORCID iD или пропустить этот шаг. Если вы пропустите его сейчас, подтвердить ORCID iD можно будет позже в разделе профиля OJS."
+
+msgid "invitation.orcid.acceptInvitation.message"
+msgstr "Не подтверждён. Вы можете подтвердить свой ORCID iD в разделе профиля OJS."
+
+msgid "invitation.role.masthead"
+msgstr "Состав редакции журнала"
+
+msgid "invitation.wizard.pageTitleDescription"
+msgstr "Вы приглашаете пользователя на роль в OJS и можете включить его в состав редакции журнала"
+
+msgid "userInvitation.enterDetails.stepDescription"
+msgstr "Вы можете пригласить пользователя на роль в OJS"
+
+msgid "userInvitation.modal.message"
+msgstr "Пользователю {$email} отправлено приглашение на новую роль в OJS. Решение пользователя будет доступно на странице «Пользователи и роли», в уведомлениях OJS и по электронной почте."
+
+msgid "userInvitation.roleTable.journalMasthead"
+msgstr "Состав редакции журнала"
+
+msgid "userInvitation.search.userFound"
+msgstr "Пользователь уже зарегистрирован в журнале"
+
+msgid "userInvitation.search.userNotFound"
+msgstr "У пользователя нет роли в этом журнале"
+
+msgid "userInvitation.searchUser.stepDescription"
+msgstr "Найдите пользователя по адресу электронной почты, имени пользователя или ORCID iD. Для начала укажите хотя бы одно значение. Если пользователя нет, его можно пригласить на роли и включить в работу журнала. Если пользователь уже существует в системе, вы можете просмотреть сведения о нём и назначить дополнительные роли."
+
+msgid "userInvitation.sendMail.stepDescription"
+msgstr "Отправьте пользователю письмо с информацией о приглашении, дальнейших шагах, политике журнала по защите персональных данных и подтверждении ORCID"

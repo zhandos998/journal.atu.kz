@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: lv\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite tēma"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS tēma, kas izstrādāta Dānijas un Grenlandes Ģeoloģiskajam dienestam, balstīta uz Health Sciences. Nepieciešams, lai būtu instalēta Health Sciences tēma; pretējā gadījumā šī tēma neielādēs savus stilus, šablonus vai hook-us."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite tēmai nepieciešams, lai būtu instalēta Health Sciences tēma. Instalējiet Health Sciences pirms Ammonite tēmas aktivizēšanas; pretējā gadījumā tās stili un šabloni netiks ielādēti."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Žurnāla ziņas"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Lejupielādēt"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Dalīties"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Jaunākais numurs"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Sēj."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Lasīt vairāk šajā numurā"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Pārlūkot numuru"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finansējums"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrikas"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Iesniegt manuskriptu"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informācija"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotekāri"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Recenzenti"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Kļūt par redaktoru"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Kļūt par recenzentu"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privātums"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Sīkdatnes"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS plūsma"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Pirmā sākumlapas kategorija"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Izvēlieties pirmo (augšējo) rakstu kategoriju, kas tiks parādīta sākumlapā"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Otrā sākumlapas kategorija"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Izvēlieties otro rakstu kategoriju, kas tiks parādīta sākumlapā"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Trešā sākumlapas kategorija"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Izvēlieties trešo rakstu kategoriju, kas tiks parādīta sākumlapā"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Neviena"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Īpašas apakškategorijas (kā saraksts)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Izvēlieties kategoriju (parādās sākumlapā kā saraksts)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Sākumlapas informācijas bloka saturs"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Ievadiet saturu sākumlapas informācijas blokam (tiek parādīts blakus informācijai autoriem un bibliotekāriem)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Sākumlapas informācijas bloka virsraksts"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Ievadiet sākumlapas informācijas bloka virsrakstu"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Sākumlapas raksti"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Ievadiet rakstu skaitu, kas tiks parādīti katrā sākumlapas kategorijā."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logotips kājenei"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Izvēlieties logotipa failu, kas tiks parādīts tieši virs OJS logotipa kājenē"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Saite uz sociālo mediju X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Saite uz YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Saite uz LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Saite uz Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Izvēlieties failu"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Kājenes vienuma 1 teksts"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Ievadiet tekstu kājenes vienumam 1, kas tiks parādīts kājenes saišu sarakstā"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Kājenes vienuma 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Ievadiet URL kājenes vienumam 1 (pāradresēs lietotāju)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Kājenes vienuma 2 teksts"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Ievadiet tekstu kājenes vienumam 2, kas tiks parādīts kājenes saišu sarakstā."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Kājenes vienuma 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, uz kuru kājenes vienums 2 (pāradresēs lietotāju)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Kājenes vienuma 3 teksts"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Ievadiet tekstu kājenes vienumam 3, kas tiks parādīts kājenes saišu sarakstā."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Kājenes vienuma 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, uz kuru kājenes vienums 3 (pāradresēs lietotāju)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Žurnāla ziņu sadaļas fona krāsa"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Izvēlieties krāsu, lai aizpildītu Žurnāla ziņu sadaļas fonu sākumlapā."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Informācijas sadaļas fona krāsa"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Izvēlieties krāsu, lai aizpildītu Informācijas sadaļas fonu sākumlapā."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Meklēšanas rezultāti"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Noklusējuma attēls numura vākam"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Izvēlieties attēlu, kas tiks izmantots kā vāka attēls, kad numuram tāda nav."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Noklusējuma attēls rakstam"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Izvēlieties attēlu, kas tiks izmantots rakstiem, kuriem tāda nav."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategorija pirmās apakškategorijas parādīšanai rakstā"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Izvēlieties vecāku kategoriju un sistēma parādīs pirmo apakškategoriju no šīs, kas ir piešķirta rakstam."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Paslēpt vai parādīt sadaļu raksta lapā"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Ja parādīt, raksta mērķlapā parādīsies sadaļa ar nosaukumu 'sadaļa'."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Paslēpt vai parādīt kategoriju sadaļu raksta lapā"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Ja parādīt, raksta mērķlapā parādīsies sadaļa ar nosaukumu 'kategorijas'."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Paslēpt"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Parādīt"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Raksta attēls nav iestatīts."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Numura vāks drīzumā."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Izmantojiet meklēšanas veidlapu, lai atrastu publicētos rakstus mūsu arhīvos."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Pirmā lapa"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Iepriekšējā lapa"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Nākamā lapa"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Pēdējā lapa"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt teksts kājenes logotipam."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt teksts iepriekš izvēlētajam kājenes logotipa attēlam."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Saite, uz kuru kājenes klienta logotipam vajadzētu pāradresēt."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Saite, uz kuru kājenes logotipa attēlam vajadzētu pāradresēt."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Rakstā parādāmie metadati."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Izvēlieties, kuri no šiem metadatiem var parādīties raksta lapā."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategorijas rakstu parādīšanai sākumlapā."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Izvēlieties rakstu kategorijas, kas tiks parādītas sākumlapā."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategorijas"

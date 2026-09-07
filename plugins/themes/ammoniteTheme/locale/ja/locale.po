@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ja\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammoniteテーマ"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "デンマークおよびグリーンランド地質調査所のために設計され、Health Sciences をベースとした OJS テーマ。Health Sciences テーマがインストールされている必要があります。インストールされていない場合、このテーマはスタイル、テンプレート、フックを読み込みません。"
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite テーマには Health Sciences テーマのインストールが必要です。Ammonite テーマを有効化する前に Health Sciences をインストールしてください。インストールされていない場合、スタイルとテンプレートは読み込まれません。"
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "ジャーナルニュース"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "ダウンロード"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "共有"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "最新号"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vol."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "この号でさらに読む"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "号を閲覧"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "資金提供"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "メトリクス"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "原稿を投稿"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "情報"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "司書"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "査読者"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "編集者になる"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "査読者になる"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "プライバシー"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookie"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSSフィード"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "ホームページの最初のカテゴリ"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "ホームページに表示する最初の(最上位の)論文カテゴリを選択してください"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "ホームページの2番目のカテゴリ"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "ホームページに表示する2番目の論文カテゴリを選択してください"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "ホームページの3番目のカテゴリ"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "ホームページに表示する3番目の論文カテゴリを選択してください"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "なし"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "注目のサブカテゴリ(リストとして)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "カテゴリを選択してください(ホームページにリストとして表示されます)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "ホームページ情報ブロックの内容"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "ホームページ情報ブロックの内容を入力してください(著者および司書向け情報の隣に表示されます)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "ホームページ情報ブロックのタイトル"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "ホームページ情報ブロックのタイトルを入力してください"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "ホームページの論文数"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "ホームページの各カテゴリに表示する論文の数を入力してください。"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "フッター用ロゴ"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "フッターのOJSロゴの直上に表示されるロゴファイルを選択してください"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "ソーシャルメディアXのリンク"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "YouTubeのリンク"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "LinkedInのリンク"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Instagramのリンク"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "ファイルを選択"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "フッター項目1のテキスト"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "フッターのリンクリストに表示されるフッター項目1のテキストを入力してください"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "フッター項目1のURL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "フッター項目1のURLを入力してください(ユーザーをリダイレクトします)。"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "フッター項目2のテキスト"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "フッターのリンクリストに表示されるフッター項目2のテキストを入力してください。"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "フッター項目2のURL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "フッター項目2が(ユーザーをリダイレクトする)URL。"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "フッター項目3のテキスト"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "フッターのリンクリストに表示されるフッター項目3のテキストを入力してください。"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "フッター項目3のURL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "フッター項目3が(ユーザーをリダイレクトする)URL。"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "ジャーナルニュースセクションの背景色"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "ホームページのジャーナルニュースセクションの背景を塗りつぶす色を選択してください。"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "情報セクションの背景色"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "ホームページの情報セクションの背景を塗りつぶす色を選択してください。"
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "検索結果:"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "号の表紙のデフォルト画像"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "号に表紙がない場合に表紙画像として使用される画像を選択してください。"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "論文のデフォルト画像"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "画像のない論文に使用される画像を選択してください。"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "論文で最初のサブカテゴリを表示するカテゴリ"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "親カテゴリを選択すると、システムは論文に割り当てられたこのカテゴリの最初のサブカテゴリを表示します。"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "論文ページのセクションを非表示または表示"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "表示する場合、論文ランディングページに「セクション」という名前のセクションが表示されます。"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "論文ページのカテゴリセクションを非表示または表示"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "表示する場合、論文ランディングページに「カテゴリ」という名前のセクションが表示されます。"
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "非表示"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "表示"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "論文画像が設定されていません。"
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "号の表紙は近日公開。"
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "検索フォームを使用して、アーカイブから公開された論文を見つけてください。"
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "最初のページ"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "前のページ"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "次のページ"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "最後のページ"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "フッターロゴの代替テキスト。"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "上記で選択したフッターロゴ画像の代替テキスト。"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "フッタークライアントロゴのリダイレクト先リンク。"
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "フッターロゴ画像のリダイレクト先リンク。"
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "表示する論文メタデータ。"
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "次のメタデータのうち論文ページに表示できるものを選択してください。"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "ホームページに論文を表示するカテゴリ。"
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "ホームページに表示する論文のカテゴリを選択してください。"
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "カテゴリ"

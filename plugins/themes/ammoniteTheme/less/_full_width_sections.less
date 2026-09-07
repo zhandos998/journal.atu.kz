@@ -1,0 +1,143 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_full_width_sections.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Full width section styles
+ */
+
+.main-content-layout {
+    padding: 0 45px;
+}
+
+.ps-0 {
+	&.ammonite-issue-content-section {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+}
+
+.ammonite-article-main-section {
+    background-color: @colour-light-blue;
+}
+
+.ammonite-hero-section {
+    position: relative;
+    height: auto;
+    min-height: 322px;
+    overflow: hidden;
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: rgba(48, 57, 72, 0.4);
+        z-index: 1;
+    }
+}
+
+.ammonite-inner-hero-section {
+    padding-top: 70px;
+    padding-left: 40px;
+}
+
+.ammonite-footer {
+    background-color: @colour-light-blue;
+}
+
+.ammonite-information-block {
+	background-color: @colour-info-section;
+
+	.ammonite-about-information-block {
+		border: 2.5px solid @colour-on-info-section;
+	}
+}
+
+.ammonite-announcements-block {
+	background-color: @colour-news-section !important;
+
+	.ammonite-announcements-title {
+		transition: all 0.3s ease-in;
+	}
+
+	.ammonite-announcement-information-block {
+		border: 2.5px solid @colour-on-news-section;
+	}
+}
+
+.ammonite-information-block-bg-color {
+	background-color: @colour-info-section;
+}
+
+@media (max-width: 1200px) {
+	.main-content-layout {
+        border-left: 0;
+        border-right: 0;
+
+        padding: 0 20px;
+    }
+
+    .ammonite-hero-section {
+        background-size: cover;
+    }
+
+    .ammonite-hero-section,
+    .ammonite-issue-content-section,
+    .ammonite-article-main-section {
+        .full-width(20px);
+    }
+
+    .ammonite-footer {
+        .full-width(35px);
+    }
+
+	.ammonite-information-block {
+		.full-width(20px);
+	}
+
+	.ammonite-announcements-block {
+		.full-width(20px);
+	}
+}
+
+@media (max-width: 768px) {
+    .ammonite-inner-hero-section {
+        padding-left: 20px;
+    }
+}
+
+@media(max-width: 767.9px) {
+	.ammonite-about-information-block {
+		border: 1.5px solid @colour-on-info-section;
+	}
+
+	.ammonite-announcement-information-block {
+		border: 1.5px solid @colour-on-news-section;
+	}
+}
+
+@media(max-width: 575px) {
+	.ammonite-inner-hero-section {
+        padding-top: 40px;
+    }
+
+    .ammonite-hero-subheading-text p {
+        margin: 0 !important;
+    }
+
+    .ammonite-hero-section {
+        height: auto;
+        min-height: 322px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

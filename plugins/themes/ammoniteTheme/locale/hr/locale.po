@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: hr\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Tema Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS tema dizajnirana za Geološku službu Danske i Grenlanda, zasnovana na Health Sciences. Zahtijeva da je Health Sciences tema instalirana; u suprotnom ova tema neće učitati svoje stilove, predloške ni hookove."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite tema zahtijeva da je Health Sciences tema instalirana. Instalirajte Health Sciences prije aktivacije Ammonite teme; u suprotnom njeni stilovi i predlošci neće biti učitani."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Vijesti časopisa"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Preuzmi"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Podijeli"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Najnoviji broj"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "God."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Pročitajte više u ovom broju"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Pregledaj broj"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Financiranje"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Mjerila"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Predaj rukopis"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informacije"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Knjižničari"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Recenzenti"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Postanite urednik"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Postanite recenzent"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privatnost"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Kolačići"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS kanal"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Prva kategorija naslovne stranice"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Odaberite prvu (glavnu) kategoriju članaka za prikaz na naslovnoj stranici"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Druga kategorija naslovne stranice"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Odaberite drugu kategoriju članaka za prikaz na naslovnoj stranici"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Treća kategorija naslovne stranice"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Odaberite treću kategoriju članaka za prikaz na naslovnoj stranici"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Nijedna"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Istaknute potkategorije (kao popis)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Odaberite kategoriju (prikazana na naslovnoj stranici kao popis)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Sadržaj informacijskog bloka naslovne stranice"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Unesite sadržaj informacijskog bloka naslovne stranice (prikazan pokraj informacija za autore i knjižničare)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Naslov informacijskog bloka naslovne stranice"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Unesite naslov informacijskog bloka naslovne stranice"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Članci na naslovnoj stranici"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Unesite broj članaka koji će se prikazati u svakoj kategoriji na naslovnoj stranici."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logotip za podnožje"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Odaberite datoteku logotipa koja će se prikazati odmah iznad OJS logotipa u podnožju"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Poveznica za društvenu mrežu X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Poveznica za YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Poveznica za LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Poveznica za Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Odaberite datoteku"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Tekst stavke 1 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Unesite tekst za stavku 1 podnožja koji će se prikazati u popisu poveznica u podnožju"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL stavke 1 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Unesite URL za stavku 1 podnožja (preusmjerit će korisnika)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Tekst stavke 2 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Unesite tekst za stavku 2 podnožja koji će se prikazati u popisu poveznica u podnožju."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL stavke 2 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL na koji stavka 2 podnožja (preusmjerit će korisnika)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Tekst stavke 3 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Unesite tekst za stavku 3 podnožja koji će se prikazati u popisu poveznica u podnožju."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL stavke 3 podnožja"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL na koji stavka 3 podnožja (preusmjerit će korisnika)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Boja pozadine odjeljka Vijesti časopisa"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Odaberite boju za ispunjavanje pozadine odjeljka Vijesti časopisa na naslovnoj stranici."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Boja pozadine odjeljka Informacije"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Odaberite boju za ispunjavanje pozadine odjeljka Informacije na naslovnoj stranici."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Rezultati pretraživanja za"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Zadana slika za naslovnicu broja"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Odaberite sliku koja će se koristiti kao naslovnica kada broj nema svoju."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Zadana slika za članak"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Odaberite sliku koja će se koristiti za članke koji je nemaju."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Kategorija za prikaz prve potkategorije na članku"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Odaberite nadređenu kategoriju i sustav će prikazati prvu potkategoriju iz ove koja je dodijeljena članku."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Sakrij ili prikaži odjeljak na stranici članka"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Ako prikaži, pojavit će se odjeljak pod nazivom 'odjeljak' na odredišnoj stranici članka."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Sakrij ili prikaži odjeljak kategorija na stranici članka"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Ako prikaži, pojavit će se odjeljak pod nazivom 'kategorije' na odredišnoj stranici članka."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Sakrij"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Prikaži"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Nema postavljene slike članka."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Naslovnica broja uskoro."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Koristite obrazac za pretraživanje kako biste pronašli objavljene članke iz naših arhiva."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Prva stranica"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Prethodna stranica"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Sljedeća stranica"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Zadnja stranica"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt tekst za logotip podnožja."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt tekst za gore odabranu sliku logotipa podnožja."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Poveznica kamo bi logotip klijenta u podnožju trebao preusmjeriti."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Poveznica kamo bi slika logotipa podnožja trebala preusmjeriti."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Metapodaci članka za prikaz."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Odaberite koji se od sljedećih metapodataka mogu pojaviti na stranici članka."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Kategorije za prikaz članaka na naslovnoj stranici."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Odaberite kategorije članaka za prikaz na naslovnoj stranici."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategorije"

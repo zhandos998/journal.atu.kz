@@ -1,0 +1,20 @@
+{
+  "src/galley.js": {
+    "file": "assets/galley-B6AoffUE.js",
+    "name": "galley",
+    "src": "src/galley.js",
+    "isEntry": true,
+    "css": [
+      "assets/galley-D_J1W8Tb.css"
+    ]
+  },
+  "src/main.js": {
+    "file": "assets/main-DYpzQrtK.js",
+    "name": "main",
+    "src": "src/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/main-kGlrwKCN.css"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_article_details_page.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Article details page styles
+ */
+
+.ammonite-article-left-column-box {
+    border: 2px solid @colour-blue;
+
+    .dropdown.my-3 {
+        ul.dropdown-menu.show {
+            width: 100% !important;
+            padding: 0;
+
+            li {
+                &.breadcrumb-link a,
+                span {
+                    transition: all ease-out 0.2s;
+                }
+
+                &.breadcrumb-link:hover a,
+                &:hover span {
+					.mobile-block-style(@colour-white);
+                }
+            }
+        }
+    }
+}
+
+.article-details-hook-blocks {
+    > .item {
+		.block-border();
+    }
+}
+
+.article-details-block {
+	.block-border();
+
+	.dropdown {
+		.display-flex-justify-center();
+
+		button {
+			.dropdown-button();
+		}
+	}
+}
+
+.ammonite-license {
+	ol {
+		padding-left: 2rem !important;
+	}
+}
+
+.ammonite-metrics {
+	.downloads_chart {
+		h3 {
+			margin-bottom: 28px;
+			border-bottom: 1px solid @colour-black;
+		}
+	}
+}
+
+a[data-load-citation] {
+	transition: all 0.3s;
+
+	&:hover {
+		background-color: @colour-on-primary-menu-hover!important;
+		border-color: @colour-on-primary-menu-hover!important;
+	}
+}
+
+@media(max-width: 575px) {
+	.ammonite-article-left-column-box {
+		.mobile-block-style();
+
+	}
+
+	.article-details-hook-blocks {
+		> .item {
+			.mobile-block-style();
+		}
+	}
+
+	.article-details-block {
+		.mobile-block-style();
+
+		.dropdown {
+			.display-flex-justify-center();
+
+			button {
+				.dropdown-button();
+			}
+		}
+	}
+
+    .citations-count {
+        display: flex !important;
+
+        > div {
+            display: flex !important;
+            flex-direction: column !important;
+			padding: 0 .5rem;
+        }
+    }
+
+    #citations-loader {
+        display: none;
+    }
+
+    .article-section-hidden-xs {
+        display: none;
+    }
+}

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: tr\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite Teması"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Danimarka ve Grönland Jeolojik Araştırması için tasarlanmış, Health Sciences tabanlı bir OJS teması. Health Sciences temasının kurulu olmasını gerektirir; aksi takdirde bu tema stillerini, şablonlarını veya hook'larını yüklemez."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite teması, Health Sciences temasının kurulu olmasını gerektirir. Ammonite temasını etkinleştirmeden önce Health Sciences'ı kurun; aksi takdirde stilleri ve şablonları yüklenmez."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Dergi haberleri"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "İndir"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Paylaş"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Son sayı"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Cilt"
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Bu sayıda daha fazlasını okuyun"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Sayıya göz at"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finansman"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrikler"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Makale gönder"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Bilgi"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Kütüphaneciler"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Hakemler"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Editör olun"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Hakem olun"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Gizlilik"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Çerezler"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS Beslemesi"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Ana sayfanın ilk kategorisi"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Ana sayfada görüntülenecek ilk (en üst) makale kategorisini seçin"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Ana sayfanın ikinci kategorisi"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Ana sayfada görüntülenecek ikinci makale kategorisini seçin"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Ana sayfanın üçüncü kategorisi"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Ana sayfada görüntülenecek üçüncü makale kategorisini seçin"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Hiçbiri"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Öne çıkan alt kategoriler (liste olarak)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Bir kategori seçin (ana sayfada liste olarak görüntülenir)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Ana sayfa bilgi bloğunun içeriği"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Ana sayfa bilgi bloğunun içeriğini girin (Yazarlar ve Kütüphaneciler için bilgilerin yanında görüntülenir)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Ana sayfa bilgi bloğunun başlığı"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Ana sayfa bilgi bloğunun başlığını girin"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Ana sayfa makaleleri"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Ana sayfada her kategoride gösterilecek makale sayısını girin."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Alt bilgi için logo"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Alt bilgide OJS logosunun hemen üstünde gösterilecek logo dosyasını seçin"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Sosyal medya X için bağlantı"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "YouTube için bağlantı"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "LinkedIn için bağlantı"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Instagram için bağlantı"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Bir dosya seçin"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Alt bilgi öğesi 1 metni"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Alt bilgi bağlantı listesinde gösterilecek Alt bilgi öğesi 1 için metni girin"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "Alt bilgi öğesi 1 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Alt bilgi öğesi 1 için URL girin (kullanıcıyı yönlendirecektir)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Alt bilgi öğesi 2 metni"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Alt bilgi bağlantı listesinde gösterilecek Alt bilgi öğesi 2 için metni girin."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "Alt bilgi öğesi 2 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "Alt bilgi öğesi 2'nin yönlendireceği URL (kullanıcıyı yönlendirecektir)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Alt bilgi öğesi 3 metni"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Alt bilgi bağlantı listesinde gösterilecek Alt bilgi öğesi 3 için metni girin."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "Alt bilgi öğesi 3 URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "Alt bilgi öğesi 3'ün yönlendireceği URL (kullanıcıyı yönlendirecektir)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Dergi haberleri bölümü arka planı rengi"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Ana sayfadaki Dergi haberleri bölümünün arka planını doldurmak için bir renk seçin."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Bilgi bölümü arka planı rengi"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Ana sayfadaki Bilgi bölümünün arka planını doldurmak için bir renk seçin."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Arama sonuçları"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Sayı kapağı için varsayılan görsel"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Sayının kendi kapağı olmadığında kapak görseli olarak kullanılacak bir görsel seçin."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Makale için varsayılan görsel"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Görseli olmayan makaleler için kullanılacak bir görsel seçin."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Makalede ilk alt kategorinin gösterileceği kategori"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Bir üst kategori seçin; sistem bu kategorinin makaleye atanmış ilk alt kategorisini gösterecektir."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Makale sayfasında bölümü gizle veya göster"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Göster seçilirse, makale açılış sayfasında 'bölüm' adlı bir bölüm görünecektir."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Makale sayfasında kategoriler bölümünü gizle veya göster"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Göster seçilirse, makale açılış sayfasında 'kategoriler' adlı bir bölüm görünecektir."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Gizle"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Göster"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Makale görseli ayarlanmamış."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Sayı kapağı yakında."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Arşivlerimizden yayımlanmış makaleleri bulmak için arama formunu kullanın."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "İlk sayfa"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Önceki sayfa"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Sonraki sayfa"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Son sayfa"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt bilgi logosu için alt metin."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Yukarıda seçilen alt bilgi logo görseli için alt metin."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Alt bilgideki müşteri logosunun yönlendireceği bağlantı."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Alt bilgi logo görselinin yönlendireceği bağlantı."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Gösterilecek makale üstverileri."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Aşağıdaki üstverilerden hangilerinin makale sayfasında görünebileceğini seçin."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Ana sayfada makale gösterilecek kategoriler."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Ana sayfada görüntülenecek makale kategorilerini seçin."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Kategoriler"

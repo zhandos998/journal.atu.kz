@@ -1,0 +1,120 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_mixins.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Mixins for the theme.
+ */
+
+///////////////////////
+// TYPOGRAPHY MIXINS //
+///////////////////////
+
+.text-style(@size, @weight: @fw-regular, @color: @colour-black, @transform: none) {
+    font-family: "Open Sans", sans-serif;
+    color: @color;
+    font-size: @size;
+    font-weight: @weight;
+    text-transform: @transform;
+}
+
+.important-text-style(@size, @weight: @font-weight-regular, @color: @colour-black, @transform: none) {
+	font-family: "Open Sans", sans-serif !important;
+	color: @color !important;
+	font-size: @size !important;
+	font-weight: @weight !important;
+	text-transform: @transform !important;
+}
+
+.heading-text(@margin-bottom, @size, @weight: @font-weight-regular, @color: @colour-black, @transform: none) {
+    .text-style(@size, @weight, @color, @transform);
+    margin-bottom: @margin-bottom;
+}
+
+///////////////////////
+// FULL WIDTH MIXINS //
+///////////////////////
+
+.full-width(@paddingValue) {
+    width: 100vw !important;
+    padding-left: @paddingValue !important;
+    padding-right: @paddingValue !important;
+}
+
+//////////////////
+// IMAGE MIXINS //
+//////////////////
+
+.responsive-img() {
+	max-width: 100% !important;
+	height: auto;
+}
+
+.full-width-img(@margin: -45px) {
+	width: 100vw !important;
+	margin-left: @margin !important;
+}
+
+///////////////////////
+// TRANSITION MIXINS //
+///////////////////////
+
+.button-transition(@baseColour, @hoverColour) {
+	cursor: pointer;
+	border: 0;
+	background-color: @baseColour;
+	transition: all 0.3s ease-in;
+
+	&:hover {
+		background-color: @hoverColour !important;
+		border: 1px solid @colour-black;
+	}
+}
+
+////////////////////
+// SHARIFF MIXINS //
+////////////////////
+
+.shariff-button-size() {
+	width: 40px !important;
+	min-width: 40px !important;
+	max-width: 40px !important;
+
+	height: 40px !important;
+	min-height: 40px !important;
+	max-height: 40px !important;
+}
+
+/////////////////
+// MAIN MIXINS //
+/////////////////
+
+.block-border() {
+    border: 2px solid @colour-blue;
+    padding-top: .25rem !important;
+    padding-right: 0.75rem !important;
+    padding-left: 0.75rem !important;
+    margin-bottom: .5rem !important;
+}
+
+.dropdown-button() {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    background-color: @colour-light-blue;
+    cursor: pointer;
+    border: 0;
+    transition: all 0.3s ease-in;
+    width: 100%;
+}
+
+.mobile-block-style(@colour: @colour-light-blue) {
+    background-color: @colour !important;
+    border: 0 !important;
+}
+
+.display-flex-justify-center() {
+	display: flex;
+	justify-content: center;
+}

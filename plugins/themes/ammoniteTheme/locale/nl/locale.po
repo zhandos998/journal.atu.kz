@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: nl\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite-thema"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "Een OJS-thema ontworpen voor de Geologische Dienst van Denemarken en Groenland, gebaseerd op Health Sciences. Vereist dat het Health Sciences-thema is geïnstalleerd; anders laadt dit thema zijn stijlen, templates of hooks niet."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Het Ammonite-thema vereist dat het Health Sciences-thema is geïnstalleerd. Installeer Health Sciences voordat u het Ammonite-thema activeert; anders worden zijn stijlen en templates niet geladen."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Tijdschriftnieuws"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Downloaden"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Delen"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Laatste uitgave"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Jrg."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Lees meer in deze uitgave"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Uitgave bekijken"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Financiering"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Statistieken"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Manuscript indienen"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informatie"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliothecarissen"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Beoordelaars"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Redacteur worden"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Beoordelaar worden"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Privacy"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookies"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS-feed"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Eerste categorie op de startpagina"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Kies de eerste (bovenste) categorie artikelen die op de startpagina wordt weergegeven"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Tweede categorie op de startpagina"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Kies de tweede categorie artikelen die op de startpagina wordt weergegeven"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Derde categorie op de startpagina"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Kies de derde categorie artikelen die op de startpagina wordt weergegeven"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Geen"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Uitgelichte subcategorieën (als lijst)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Selecteer een categorie (weergegeven op de startpagina als lijst)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Inhoud van het informatieblok op de startpagina"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Voer de inhoud in voor het informatieblok op de startpagina (weergegeven naast de informatie voor auteurs en bibliothecarissen)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Titel van het informatieblok op de startpagina"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Voer de titel in voor het informatieblok op de startpagina"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Artikelen op de startpagina"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Voer het aantal artikelen in dat in elke categorie op de startpagina wordt weergegeven."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo voor voettekst"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Selecteer het logobestand dat net boven het OJS-logo in de voettekst wordt weergegeven"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Link voor sociaal medium X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Link voor YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Link voor LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Link voor Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Selecteer een bestand"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Tekst van voettekstitem 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Voer de tekst in voor voettekstitem 1 om in de linklijst van de voettekst te tonen"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL van voettekstitem 1"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Voer de URL in voor voettekstitem 1 (zal de gebruiker doorverwijzen)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Tekst van voettekstitem 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Voer de tekst in voor voettekstitem 2 om in de linklijst van de voettekst te tonen."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL van voettekstitem 2"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL waarnaar voettekstitem 2 (zal de gebruiker doorverwijzen)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Tekst van voettekstitem 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Voer de tekst in voor voettekstitem 3 om in de linklijst van de voettekst te tonen."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL van voettekstitem 3"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL waarnaar voettekstitem 3 (zal de gebruiker doorverwijzen)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Kleur voor de achtergrond van de sectie Tijdschriftnieuws"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Kies een kleur om de achtergrond van de sectie Tijdschriftnieuws op de startpagina te vullen."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Kleur voor de achtergrond van de sectie Informatie"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Kies een kleur om de achtergrond van de sectie Informatie op de startpagina te vullen."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Zoekresultaten voor"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Standaardafbeelding voor omslag van uitgave"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Kies een afbeelding om als omslag te gebruiken wanneer de uitgave er geen heeft."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Standaardafbeelding voor artikel"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Kies een afbeelding om te gebruiken voor artikelen die er geen hebben."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Categorie om de eerste subcategorie op het artikel te tonen"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Kies een bovenliggende categorie en het systeem toont de eerste subcategorie hiervan die aan het artikel is toegewezen."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Sectie op de artikelpagina verbergen of tonen"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Indien tonen, verschijnt er een sectie genaamd 'sectie' op de landingspagina van het artikel."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Sectie categorieën op de artikelpagina verbergen of tonen"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Indien tonen, verschijnt er een sectie genaamd 'categorieën' op de landingspagina van het artikel."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Verbergen"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Tonen"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Geen artikelafbeelding ingesteld."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Omslag van uitgave komt binnenkort."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Gebruik het zoekformulier om gepubliceerde artikelen uit ons archief te vinden."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Eerste pagina"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Vorige pagina"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Volgende pagina"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Laatste pagina"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt-tekst voor voettekstlogo."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "De alt-tekst voor de hierboven geselecteerde voettekstlogoafbeelding."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "De link waarnaar het cliëntlogo in de voettekst moet doorverwijzen."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "De link waarnaar de voettekstlogoafbeelding moet doorverwijzen."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Te tonen artikelmetadata."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Selecteer welke van de volgende metadata op de artikelpagina kunnen verschijnen."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Categorieën om artikelen op de startpagina te tonen."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Kies de categorieën artikelen die op de startpagina moeten worden weergegeven."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Categorieën"

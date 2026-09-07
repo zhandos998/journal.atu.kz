@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ka\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Ammonite თემა"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS თემა, შექმნილი დანიისა და გრენლანდიის გეოლოგიური სამსახურისთვის, დაფუძნებული Health Sciences-ზე. მოითხოვს Health Sciences თემის ინსტალაციას; წინააღმდეგ შემთხვევაში ეს თემა არ ჩაიტვირთება სტილებს, შაბლონებს ან hook-ებს."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Ammonite თემა მოითხოვს Health Sciences თემის ინსტალაციას. დააინსტალირეთ Health Sciences Ammonite თემის გააქტიურებამდე; წინააღმდეგ შემთხვევაში მისი სტილები და შაბლონები არ ჩაიტვირთება."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "ჟურნალის სიახლეები"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "ჩამოტვირთვა"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "გაზიარება"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "უახლესი ნომერი"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "ტ."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "წაიკითხეთ მეტი ამ ნომერში"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "ნომრის დათვალიერება"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "დაფინანსება"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "მეტრიკები"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "ხელნაწერის წარდგენა"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "ინფორმაცია"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "ბიბლიოთეკარები"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "რეცენზენტები"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "გახდით რედაქტორი"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "გახდით რეცენზენტი"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "კონფიდენციალურობა"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "ქუქი-ფაილები"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS არხი"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "მთავარი გვერდის პირველი კატეგორია"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "აირჩიეთ სტატიების პირველი (ზედა) კატეგორია მთავარ გვერდზე საჩვენებლად"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "მთავარი გვერდის მეორე კატეგორია"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "აირჩიეთ სტატიების მეორე კატეგორია მთავარ გვერდზე საჩვენებლად"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "მთავარი გვერდის მესამე კატეგორია"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "აირჩიეთ სტატიების მესამე კატეგორია მთავარ გვერდზე საჩვენებლად"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "არცერთი"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "რჩეული ქვეკატეგორიები (როგორც სია)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "აირჩიეთ კატეგორია (ნაჩვენებია მთავარ გვერდზე, როგორც სია)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "მთავარი გვერდის ინფორმაციის ბლოკის შიგთავსი"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "შეიყვანეთ მთავარი გვერდის ინფორმაციის ბლოკის შიგთავსი (ნაჩვენებია ავტორებისა და ბიბლიოთეკარების ინფორმაციის გვერდით)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "მთავარი გვერდის ინფორმაციის ბლოკის სათაური"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "შეიყვანეთ მთავარი გვერდის ინფორმაციის ბლოკის სათაური"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "მთავარი გვერდის სტატიები"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "შეიყვანეთ სტატიების რაოდენობა, რომლებიც გამოჩნდება მთავარი გვერდის თითოეულ კატეგორიაში."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "ლოგო ქვედა კოლონტიტულისთვის"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "აირჩიეთ ლოგოს ფაილი, რომელიც გამოჩნდება უშუალოდ OJS-ის ლოგოს ზემოთ ქვედა კოლონტიტულში"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "ბმული სოციალური მედიისთვის X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "ბმული YouTube-ისთვის"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "ბმული LinkedIn-ისთვის"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "ბმული Instagram-ისთვის"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "აირჩიეთ ფაილი"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 1-ის ტექსტი"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "შეიყვანეთ ტექსტი ქვედა კოლონტიტულის ელემენტი 1-ისთვის, რომელიც გამოჩნდება ქვედა კოლონტიტულის ბმულების სიაში"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 1-ის URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "შეიყვანეთ URL ქვედა კოლონტიტულის ელემენტი 1-ისთვის (მომხმარებელს გადაამისამართებს)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 2-ის ტექსტი"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "შეიყვანეთ ტექსტი ქვედა კოლონტიტულის ელემენტი 2-ისთვის, რომელიც გამოჩნდება ქვედა კოლონტიტულის ბმულების სიაში."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 2-ის URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, რომელზეც ქვედა კოლონტიტულის ელემენტი 2 (მომხმარებელს გადაამისამართებს)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 3-ის ტექსტი"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "შეიყვანეთ ტექსტი ქვედა კოლონტიტულის ელემენტი 3-ისთვის, რომელიც გამოჩნდება ქვედა კოლონტიტულის ბმულების სიაში."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "ქვედა კოლონტიტულის ელემენტი 3-ის URL"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, რომელზეც ქვედა კოლონტიტულის ელემენტი 3 (მომხმარებელს გადაამისამართებს)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "ჟურნალის სიახლეების განყოფილების ფონის ფერი"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "აირჩიეთ ფერი მთავარ გვერდზე ჟურნალის სიახლეების განყოფილების ფონის შესავსებად."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "ინფორმაციის განყოფილების ფონის ფერი"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "აირჩიეთ ფერი მთავარ გვერდზე ინფორმაციის განყოფილების ფონის შესავსებად."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "ძიების შედეგები"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "ნომრის ყდის ნაგულისხმევი სურათი"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "აირჩიეთ სურათი, რომელიც გამოყენებული იქნება როგორც ყდის სურათი, როდესაც ნომერს არ აქვს."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "სტატიის ნაგულისხმევი სურათი"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "აირჩიეთ სურათი სტატიებისთვის, რომლებსაც არ აქვთ."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "კატეგორია სტატიაზე პირველი ქვეკატეგორიის საჩვენებლად"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "აირჩიეთ მშობელი კატეგორია და სისტემა აჩვენებს ამ კატეგორიის პირველ ქვეკატეგორიას, რომელიც მინიჭებულია სტატიას."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "განყოფილების დამალვა ან ჩვენება სტატიის გვერდზე"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "თუ ჩვენება, სტატიის სადესანტო გვერდზე გამოჩნდება განყოფილება სახელად „განყოფილება“."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "კატეგორიების განყოფილების დამალვა ან ჩვენება სტატიის გვერდზე"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "თუ ჩვენება, სტატიის სადესანტო გვერდზე გამოჩნდება განყოფილება სახელად „კატეგორიები“."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "დამალვა"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "ჩვენება"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "სტატიის სურათი არ არის დაყენებული."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "ნომრის ყდა მალე."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "გამოიყენეთ ძიების ფორმა ჩვენს არქივებში გამოქვეყნებული სტატიების მოსაძებნად."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "პირველი გვერდი"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "წინა გვერდი"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "შემდეგი გვერდი"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "ბოლო გვერდი"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Alt ტექსტი ქვედა კოლონტიტულის ლოგოსთვის."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Alt ტექსტი ზემოთ არჩეული ქვედა კოლონტიტულის ლოგოს სურათისთვის."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "ბმული, რომელზეც ქვედა კოლონტიტულის კლიენტის ლოგო უნდა გადაამისამართოს."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "ბმული, რომელზეც ქვედა კოლონტიტულის ლოგოს სურათი უნდა გადაამისამართოს."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "საჩვენებელი სტატიის მეტამონაცემები."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "აირჩიეთ, რომელი შემდეგი მეტამონაცემებიდან შეიძლება გამოჩნდეს სტატიის გვერდზე."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "კატეგორიები სტატიების საჩვენებლად მთავარ გვერდზე."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "აირჩიეთ სტატიების კატეგორიები მთავარ გვერდზე საჩვენებლად."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "კატეგორიები"

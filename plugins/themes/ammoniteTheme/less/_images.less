@@ -1,0 +1,117 @@
+/**
+ * @file plugins/themes/ammoniteTheme/less/_images.less
+ *
+ * Copyright (c) 2026 Simon Fraser University
+ * Copyright (c) 2026 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @brief Image styles
+ */
+
+.ammonite-issue-cover-img {
+	.responsive-img();
+    width: auto;
+    object-fit: cover;
+}
+
+.ammonite-announcements-description {
+	img {
+		.full-width-img(-45px);
+		max-width: 1199px !important;
+		object-fit: contain;
+		object-position: center;
+	}
+}
+
+.ammonite-article-summary-img {
+    object-fit: cover;
+    height: 175px;
+    width: 100% !important;
+}
+
+.ammonite-category-full-width-image {
+    width: calc(~"100% + 90px");
+    height: 170px;
+    margin-left: -45px;
+}
+
+.ammonite-announcement-short,
+.ammonite-announcement-summary {
+    img {
+        .responsive-img();
+        margin-bottom: 8px;
+    }
+}
+
+.ammonite-regular-text {
+    img {
+        .responsive-img();
+    }
+}
+
+.pkp_block {
+    .content {
+        img {
+            .responsive-img();
+        }
+    }
+}
+
+.ammonite-issue-img {
+    width: 90% !important;
+}
+
+.ammonite-hero-section {
+    img {
+        object-fit: cover;
+        height: 100%;
+    }
+}
+
+.ammonite-announcements-block {
+	.ammonite-announcement-information-block {
+		.ammonite-index-announcement {
+			img {
+				.responsive-img();
+			}
+		}
+	}
+}
+
+@media (max-width: 1200px) {
+	.ammonite-announcements-description {
+        img {
+            width: 100vw !important;
+            max-width: calc(~"100vw - 2px") !important;
+        }
+    }
+
+    .ammonite-category-full-width-image {
+		.full-width-img(-20px);
+    }
+}
+
+@media(min-width: 575px) {
+	.ammonite-category-full-width-image {
+        width: calc(~"100% + 90px");
+        height: 333px;
+        margin-left: -45px;
+        object-fit: cover;
+        object-position: center;
+    }
+}
+
+@media(max-width: 767.9px) {
+	.ammonite-announcements-description {
+        img {
+			.full-width-img(-20px);
+            max-width: 100vw !important;
+        }
+    }
+}
+
+@media(max-width: 575px) {
+	.article-cover-image-column {
+        display: none;
+    }
+}

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: bg\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Тема Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "OJS тема, предназначена за Геоложката служба на Дания и Гренландия, базирана на Health Sciences. Изисква темата Health Sciences да е инсталирана; в противен случай тази тема няма да зареди своите стилове, шаблони и hooks."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Темата Ammonite изисква темата Health Sciences да е инсталирана. Инсталирайте Health Sciences преди активиране на темата Ammonite; в противен случай нейните стилове и шаблони няма да се заредят."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Новини на списанието"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Изтегли"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Сподели"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Последен брой"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Том"
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Прочетете повече в този брой"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Прегледай броя"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Финансиране"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Метрики"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Подай ръкопис"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Информация"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Библиотекари"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Рецензенти"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Станете редактор"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Станете рецензент"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Поверителност"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Бисквитки"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "RSS канал"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Първа категория на началната страница"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Изберете първата (горна) категория статии за показване на началната страница"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "Втора категория на началната страница"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Изберете втора категория статии за показване на началната страница"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "Трета категория на началната страница"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Изберете трета категория статии за показване на началната страница"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Няма"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Избрани подкатегории (като списък)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Изберете категория (показвана на началната страница като списък)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Съдържание на информационния блок на началната страница"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Въведете съдържание за информационния блок на началната страница (показван наред с информация за автори и библиотекари)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Заглавие на информационния блок на началната страница"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Въведете заглавие на информационния блок на началната страница"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Статии на началната страница"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Въведете броя на статиите, които да се показват във всяка категория на началната страница."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Лого за долния колонтитул"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Изберете файла с лого, който да се показва точно над логото на OJS в долния колонтитул"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Връзка за социалната мрежа X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Връзка за YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Връзка за LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Връзка за Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Изберете файл"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Текст на елемент 1 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Въведете текста за елемент 1 в долния колонтитул, който ще се показва в списъка с връзки"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL на елемент 1 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Въведете URL за елемент 1 в долния колонтитул (ще пренасочи потребителя)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Текст на елемент 2 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Въведете текста за елемент 2 в долния колонтитул, който ще се показва в списъка с връзки."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL на елемент 2 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL, към който елемент 2 в долния колонтитул (ще пренасочи потребителя)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Текст на елемент 3 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Въведете текста за елемент 3 в долния колонтитул, който ще се показва в списъка с връзки."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL на елемент 3 в долния колонтитул"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL, към който елемент 3 в долния колонтитул (ще пренасочи потребителя)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Цвят за фона на секция Новини на списанието"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Изберете цвят за запълване на фона на секция Новини на списанието на началната страница."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Цвят за фона на секция Информация"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Изберете цвят за запълване на фона на секция Информация на началната страница."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Резултати от търсенето за"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Изображение по подразбиране за корица на броя"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Изберете изображение, което да се използва като корица, когато броят няма такова."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Изображение по подразбиране за статия"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Изберете изображение, което да се използва за статии, които нямат такова."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Категория за показване на първа подкатегория на статията"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Изберете родителска категория и системата ще покаже първата подкатегория от нея, която е присвоена на статията."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Скриване или показване на секцията на страницата на статията"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Ако е показано, секция наречена „секция“ ще се появи на целевата страница на статията."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Скриване или показване на секцията с категории на страницата на статията"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Ако е показано, секция наречена „категории“ ще се появи на целевата страница на статията."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Скрий"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Покажи"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Няма зададено изображение на статия."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Корицата на броя скоро."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Използвайте формата за търсене, за да намерите публикувани статии от нашите архиви."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Първа страница"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Предишна страница"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Следваща страница"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Последна страница"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Алт текст за логото в долния колонтитул."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Алт текстът за избраното по-горе изображение на лого в долния колонтитул."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Връзката, към която логото на клиента в долния колонтитул трябва да пренасочва."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Връзката, към която изображението на лого в долния колонтитул трябва да пренасочва."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Метаданни на статията за показване."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Изберете кои от следните метаданни могат да се показват на страницата на статията."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Категории за показване на статии на началната страница."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Изберете категориите статии за показване на началната страница."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Категории"

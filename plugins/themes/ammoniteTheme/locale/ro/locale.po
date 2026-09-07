@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-16T00:00:00+00:00\n"
+"PO-Revision-Date: 2022-11-16T00:00:00+00:00\n"
+"Language: ro\n"
+
+msgid "plugins.themes.ammonite.name"
+msgstr "Tema Ammonite"
+
+msgid "plugins.themes.ammonite.description"
+msgstr "O temă OJS concepută pentru Serviciul Geologic din Danemarca și Groenlanda, bazată pe Health Sciences. Necesită instalarea temei Health Sciences; în caz contrar, această temă nu își va încărca stilurile, șabloanele sau hook-urile."
+
+msgid "plugins.themes.ammonite.parentMissing"
+msgstr "Tema Ammonite necesită instalarea temei Health Sciences. Instalați Health Sciences înainte de a activa tema Ammonite; în caz contrar, stilurile și șabloanele sale nu vor fi încărcate."
+
+msgid "plugins.themes.ammonite.journalNews"
+msgstr "Știri din revistă"
+
+msgid "plugins.themes.ammonite.download"
+msgstr "Descarcă"
+
+msgid "plugins.themes.ammonite.share"
+msgstr "Distribuie"
+
+msgid "plugins.themes.ammonite.latestIssue"
+msgstr "Ultimul număr"
+
+msgid "plugins.themes.ammonite.resumedVolume"
+msgstr "Vol."
+
+msgid "plugins.themes.ammonite.readMoreInThisIssue"
+msgstr "Citește mai mult în acest număr"
+
+msgid "plugins.themes.ammonite.browseCurrentIssue"
+msgstr "Răsfoiește numărul"
+
+msgid "plugins.themes.ammonite.funding"
+msgstr "Finanțare"
+
+msgid "plugins.themes.ammonite.metrics"
+msgstr "Metrici"
+
+msgid "plugins.themes.ammonite.submitManuscript"
+msgstr "Trimite un manuscris"
+
+msgid "plugins.themes.ammonite.information"
+msgstr "Informații"
+
+msgid "plugins.themes.ammonite.librarians"
+msgstr "Bibliotecari"
+
+msgid "plugins.themes.ammonite.reviewers"
+msgstr "Evaluatori"
+
+msgid "plugins.themes.ammonite.becomeAnEditor"
+msgstr "Deveniți editor"
+
+msgid "plugins.themes.ammonite.becomeAReviewer"
+msgstr "Deveniți evaluator"
+
+msgid "plugins.themes.ammonite.privacy"
+msgstr "Confidențialitate"
+
+msgid "plugins.themes.ammonite.cookies"
+msgstr "Cookie-uri"
+
+msgid "plugins.themes.ammonite.rssFeed"
+msgstr "Flux RSS"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.label"
+msgstr "Prima categorie a paginii principale"
+
+msgid "plugins.themes.ammonite.option.mainHomePageCategory.description"
+msgstr "Alegeți prima (cea de sus) categorie de articole de afișat pe pagina principală"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.label"
+msgstr "A doua categorie a paginii principale"
+
+msgid "plugins.themes.ammonite.option.secondHomePageCategory.description"
+msgstr "Alegeți a doua categorie de articole de afișat pe pagina principală"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.label"
+msgstr "A treia categorie a paginii principale"
+
+msgid "plugins.themes.ammonite.option.thirdHomePageCategory.description"
+msgstr "Alegeți a treia categorie de articole de afișat pe pagina principală"
+
+msgid "plugins.themes.ammonite.option.none"
+msgstr "Niciuna"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.label"
+msgstr "Subcategorii evidențiate (ca listă)"
+
+msgid "plugins.themes.ammonite.option.categoryToListSubcategories.description"
+msgstr "Selectați o categorie (afișată pe pagina principală ca listă)"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.label"
+msgstr "Conținutul blocului de informații al paginii principale"
+
+msgid "plugins.themes.ammonite.option.homepageInformationContent.description"
+msgstr "Introduceți conținutul pentru blocul de informații al paginii principale (afișat alături de informațiile pentru autori și bibliotecari)"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.label"
+msgstr "Titlul blocului de informații al paginii principale"
+
+msgid "plugins.themes.ammonite.homepageInformationTitle.description"
+msgstr "Introduceți titlul blocului de informații al paginii principale"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.label"
+msgstr "Articole de pe pagina principală"
+
+msgid "plugins.themes.ammonite.option.submissionsQtd.description"
+msgstr "Introduceți numărul de articole care vor fi afișate în fiecare categorie de pe pagina principală."
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.label"
+msgstr "Logo pentru subsol"
+
+msgid "plugins.themes.ammonite.option.footerClientLogo.description"
+msgstr "Selectați fișierul logo care va fi afișat chiar deasupra logoului OJS în subsol"
+
+msgid "plugins.themes.ammonite.option.socialMediaXLink.label"
+msgstr "Link pentru rețeaua socială X"
+
+msgid "plugins.themes.ammonite.option.socialMediaYouTubeLink.label"
+msgstr "Link pentru YouTube"
+
+msgid "plugins.themes.ammonite.option.socialMediaLinkedInLink.label"
+msgstr "Link pentru LinkedIn"
+
+msgid "plugins.themes.ammonite.option.socialMediaInstagramLink.label"
+msgstr "Link pentru Instagram"
+
+msgid "plugins.themes.ammonite.settings.splashImage.selectLabel"
+msgstr "Selectați un fișier"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.label"
+msgstr "Text pentru elementul 1 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemOne.description"
+msgstr "Introduceți textul pentru elementul 1 din subsol care va fi afișat în lista de linkuri din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.label"
+msgstr "URL pentru elementul 1 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemOneUrl.description"
+msgstr "Introduceți URL-ul pentru elementul 1 din subsol (va redirecționa utilizatorul)."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.label"
+msgstr "Text pentru elementul 2 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwo.description"
+msgstr "Introduceți textul pentru elementul 2 din subsol care va fi afișat în lista de linkuri din subsol."
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.label"
+msgstr "URL pentru elementul 2 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemTwoUrl.description"
+msgstr "URL la care elementul 2 din subsol (va redirecționa utilizatorul)."
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.label"
+msgstr "Text pentru elementul 3 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemThree.description"
+msgstr "Introduceți textul pentru elementul 3 din subsol care va fi afișat în lista de linkuri din subsol."
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.label"
+msgstr "URL pentru elementul 3 din subsol"
+
+msgid "plugins.themes.ammonite.settings.footerItemThreeUrl.description"
+msgstr "URL la care elementul 3 din subsol (va redirecționa utilizatorul)."
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.label"
+msgstr "Culoare pentru fundalul secțiunii Știri din revistă"
+
+msgid "plugins.themes.ammonite.settings.journalNewsColour.description"
+msgstr "Alegeți o culoare pentru a umple fundalul secțiunii Știri din revistă de pe pagina principală."
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.label"
+msgstr "Culoare pentru fundalul secțiunii Informații"
+
+msgid "plugins.themes.ammonite.settings.informationBlockColour.description"
+msgstr "Alegeți o culoare pentru a umple fundalul secțiunii Informații de pe pagina principală."
+
+msgid "plugins.themes.ammonite.search.resultsFor"
+msgstr "Rezultate ale căutării pentru"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.label"
+msgstr "Imagine implicită pentru coperta numărului"
+
+msgid "plugins.themes.ammonite.settings.defaultIssueCoverImage.description"
+msgstr "Alegeți o imagine care va fi folosită ca imagine de copertă atunci când numărul nu are una."
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.label"
+msgstr "Imagine implicită pentru articol"
+
+msgid "plugins.themes.ammonite.settings.defaultArticleImage.description"
+msgstr "Alegeți o imagine care va fi folosită pentru articolele care nu au una."
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.label"
+msgstr "Categorie pentru a afișa prima subcategorie pe articol"
+
+msgid "plugins.themes.ammonite.settings.categoryToShowChildOnArticle.description"
+msgstr "Alegeți o categorie părinte și sistemul va afișa prima subcategorie a acesteia care este atribuită articolului."
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.label"
+msgstr "Ascunde sau afișează secțiunea pe pagina articolului"
+
+msgid "plugins.themes.ammonite.settings.showHideSectionOnArticle.description"
+msgstr "Dacă este afișată, va apărea o secțiune numită „secțiune” pe pagina de destinație a articolului."
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.label"
+msgstr "Ascunde sau afișează secțiunea de categorii pe pagina articolului"
+
+msgid "plugins.themes.ammonite.settings.showHideCategoryOnArticle.description"
+msgstr "Dacă este afișată, va apărea o secțiune numită „categorii” pe pagina de destinație a articolului."
+
+msgid "plugins.themes.ammonite.hide"
+msgstr "Ascunde"
+
+msgid "plugins.themes.ammonite.show"
+msgstr "Afișează"
+
+msgid "plugins.themes.ammonite.noArticleCoverImageAltText"
+msgstr "Nicio imagine de articol setată."
+
+msgid "plugins.themes.ammonite.noIssueCoverImageAltText"
+msgstr "Coperta numărului va apărea în curând."
+
+msgid "plugins.themes.ammonite.searchInformation"
+msgstr "Folosiți formularul de căutare pentru a găsi articole publicate din arhivele noastre."
+
+msgid "plugins.themes.ammonite.firstPage"
+msgstr "Prima pagină"
+
+msgid "plugins.themes.ammonite.previousPage"
+msgstr "Pagina anterioară"
+
+msgid "plugins.themes.ammonite.nextPage"
+msgstr "Pagina următoare"
+
+msgid "plugins.themes.ammonite.lastPage"
+msgstr "Ultima pagină"
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextLabel"
+msgstr "Text alternativ pentru logoul din subsol."
+
+msgid "plugins.themes.ammonite.footerClientLogoAltTextDescription"
+msgstr "Textul alternativ pentru imaginea logoului din subsol selectată mai sus."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkLabel"
+msgstr "Linkul către care logoul clientului din subsol ar trebui să redirecționeze."
+
+msgid "plugins.themes.ammonite.footerClientLogoLinkDescription"
+msgstr "Linkul către care imaginea logoului din subsol ar trebui să redirecționeze."
+
+msgid "plugins.themes.ammonite.metadataToShowLabel"
+msgstr "Metadate ale articolului de afișat."
+
+msgid "plugins.themes.ammonite.metadataToShowDescription"
+msgstr "Selectați care dintre următoarele metadate pot apărea pe pagina articolului."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesLabel"
+msgstr "Categorii pentru afișarea articolelor pe pagina principală."
+
+msgid "plugins.themes.ammonite.categoriesToShowArticlesDescription"
+msgstr "Alegeți categoriile de articole de afișat pe pagina principală."
+
+msgid "plugins.themes.ammonite.categoriesDescription"
+msgstr "Categorii"
