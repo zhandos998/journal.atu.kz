@@ -33,10 +33,16 @@ class StyleSheet
      * @return string
      * @throws CiteProcException
      */
-    public static function loadStyleSheet(string $styleName): string
+    public static function loadStyleSheet(string $stylesFile): string
     {
-        $stylesPath = self::vendorPath() . "/citation-style-language/styles";
-        return self::readFileContentsOrThrowException("$stylesPath/$styleName.csl");
+        // default encoding for multi byte, maybe useful on some old systems 
+        mb_internal_encoding("UTF-8");
+        // style name to find in vendor/
+        if (substr($stylesFile, -4 ) !== ".csl") {
+            $stylesFile = self::vendorPath() . "/citation-style-language/styles/$stylesFile.csl";
+        }
+        // absolute path
+        return self::readFileContentsOrThrowException($stylesFile);
     }
 
     /**
@@ -49,7 +55,7 @@ class StyleSheet
     public static function loadLocales(string $langKey): string
     {
         $localesPath = self::vendorPath()."/citation-style-language/locales";
-        $localeFile = "$localesPath/locales-${langKey}.xml";
+        $localeFile = "$localesPath/locales-{$langKey}.xml";
         if (file_exists($localeFile)) {
             return self::readFileContentsOrThrowException($localeFile);
         } else {

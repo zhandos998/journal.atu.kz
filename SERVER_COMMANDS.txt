@@ -1,3 +1,5 @@
-ssh uit@172.20.4.17
-password12345
+SSH access:
 
+ssh -i ~/.ssh/codex_ojs_audit_ed25519 zhagparovr@172.20.252.171
+
+Do not store server passwords in Git.

@@ -3,8 +3,8 @@
 /**
  * @file classes/user/Collector.php
  *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2000-2021 John Willinsky
+ * Copyright (c) 2014-2026 Simon Fraser University
+ * Copyright (c) 2000-2026 John Willinsky
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
  * @class Collector
@@ -146,7 +146,7 @@ class Collector implements CollectorInterface
      */
     public function filterByReviewerRating(?int $reviewerRating): self
     {
-        $this->includeReviewerData(true);
+        $this->includeReviewerData();
         $this->reviewerRating = $reviewerRating;
         return $this;
     }
@@ -162,12 +162,12 @@ class Collector implements CollectorInterface
     }
 
     /**
-     * Limit results to those who's last review assignment was at least this many
+     * Limit results to those whose last review assignment was at least this many
      * days ago.
      */
     public function filterByDaysSinceLastAssignment(?int $minimumDaysSinceLastAssignment = null, ?int $maximumDaysSinceLastAssignment = null): self
     {
-        $this->includeReviewerData(true);
+        $this->includeReviewerData();
         $this->daysSinceLastAssignment = [$minimumDaysSinceLastAssignment, $maximumDaysSinceLastAssignment];
         return $this;
     }
@@ -178,7 +178,7 @@ class Collector implements CollectorInterface
      */
     public function filterByAverageCompletion(?int $averageCompletion): self
     {
-        $this->includeReviewerData(true);
+        $this->includeReviewerData();
         $this->averageCompletion = $averageCompletion;
         return $this;
     }
@@ -188,7 +188,7 @@ class Collector implements CollectorInterface
      */
     public function filterByReviewsActive(?int $minimumReviewsActive = null, ?int $maximumReviewsActive = null): self
     {
-        $this->includeReviewerData(true);
+        $this->includeReviewerData();
         $this->reviewsActive = [$minimumReviewsActive, $maximumReviewsActive];
         return $this;
     }
@@ -376,7 +376,7 @@ class Collector implements CollectorInterface
      *
      * @param string $sorter One of the self::ORDERBY_ constants
      * @param string $direction One of the self::ORDER_DIR_ constants
-     * @param array|null locales Optional list of locale precedences when ordering by localized columns
+     * @param array|null $locales locales Optional list of locale precedences when ordering by localized columns
      */
     public function orderBy(string $sorter, string $direction = self::ORDER_DIR_DESC, ?array $locales = null): self
     {
@@ -487,12 +487,13 @@ class Collector implements CollectorInterface
      */
     protected function buildUserGroupFilter(Builder $query): self
     {
-        if ($this->userGroupIds === null &&
+        if (
+            $this->userGroupIds === null &&
             $this->roleIds === null &&
             $this->contextIds === null &&
             $this->workflowStageIds === null &&
-            $this->userMastheadStatus === UserMastheadStatus::STATUS_ALL) {
-
+            $this->userMastheadStatus === UserMastheadStatus::STATUS_ALL
+        ) {
             return $this;
         }
 
@@ -752,11 +753,11 @@ class Collector implements CollectorInterface
                             ->whereRaw('LOWER(cves.setting_value) LIKE LOWER(?)', [$word])
                     )
                     ->orWhereExists(
-                        fn(Builder $query) => $query->from('user_user_groups', 'uug')
+                        fn (Builder $query) => $query->from('user_user_groups', 'uug')
                             ->join('user_groups AS ug', 'uug.user_group_id', '=', 'ug.user_group_id')
                             ->whereColumn('uug.user_id', '=', 'u.user_id')
                             ->whereExists(
-                                fn(Builder $query) => $query->from('user_group_settings', 'ugs')
+                                fn (Builder $query) => $query->from('user_group_settings', 'ugs')
                                     ->whereColumn('ugs.user_group_id', '=', 'ug.user_group_id')
                                     ->where('ugs.setting_name', '=', 'name')
                                     ->whereRaw('LOWER(ugs.setting_value) LIKE LOWER(?)', [$word])
@@ -770,6 +771,8 @@ class Collector implements CollectorInterface
 
     /**
      * Handles the order by clause
+     *
+     * @throws Exception
      */
     protected function buildOrderBy(Builder $query): self
     {
@@ -787,7 +790,8 @@ class Collector implements CollectorInterface
                     $userGroupOrderBy = implode(', ', $userGroupOrderBy);
                     $query->orderByRaw("({$userGroupOrderBy}) ASC");
                     break;
-                default: throw new Exception('Unexpected database driver!');
+                default:
+                    throw new Exception('Unexpected database driver!');
             }
         }
 
@@ -805,22 +809,21 @@ class Collector implements CollectorInterface
                     : array_values($this->orderLocales)
             );
             $sortedSettings = array_values($this->orderBy === self::ORDERBY_GIVENNAME ? $nameSettings : array_reverse($nameSettings));
-            // Build the ORDER BY using scalar correlated subqueries instead of LEFT JOINs,
-            // because MySQL does not allow references to outer query tables in JOIN ON clauses
-            // inside subqueries (Unknown column 'u.user_id' in 'on clause').
-            $coalesceParts = [];
-            $bindings = [];
-            foreach ($sortedSettings as $setting) {
-                $subqueries = [];
-                foreach ($locales as $locale) {
-                    $subqueries[] = '(SELECT `setting_value` FROM `user_settings` WHERE `user_id` = `u`.`user_id` AND `setting_name` = ? AND `locale` = ? LIMIT 1)';
-                    $bindings[] = $setting;
-                    $bindings[] = $locale;
+            $coalesceExpressions = [];
+            foreach ($sortedSettings as $i => $setting) {
+                $parts = [];
+                foreach ($locales as $j => $locale) {
+                    $alias = "us_{$i}_{$j}";
+                    $parts[] = "{$alias}.setting_value";
+                    $query->leftJoin("user_settings AS {$alias}", function (JoinClause $join) use ($alias, $setting, $locale) {
+                        $join->on("{$alias}.user_id", '=', 'u.user_id')
+                            ->where("{$alias}.setting_name", '=', $setting)
+                            ->where("{$alias}.locale", '=', $locale);
+                    });
                 }
-                $coalesceParts[] = 'COALESCE(' . implode(', ', $subqueries) . ", '')";
+                $coalesceExpressions[] = sprintf("COALESCE(%s, '')", implode(', ', $parts));
             }
-            $direction = strtoupper($this->orderDirection) === 'DESC' ? 'DESC' : 'ASC';
-            $query->orderByRaw('CONCAT(' . implode(', ', $coalesceParts) . ') ' . $direction, $bindings);
+            $query->orderByRaw(sprintf('CONCAT(%s) %s', implode(', ', $coalesceExpressions), $this->orderDirection));
         }
 
         return $this;

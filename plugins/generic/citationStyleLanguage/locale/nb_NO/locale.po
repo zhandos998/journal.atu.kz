@@ -1,12 +1,13 @@
 # Huw Robert Grange <huw.r.grange@uit.no>, 2023.
 # Aysa Ekanger <aysa.ekanger@uit.no>, 2024.
+# Eirik Hanssen <eirikh@oslomet.no>, 2026.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-12 10:58+0000\n"
-"Last-Translator: Aysa Ekanger <aysa.ekanger@uit.no>\n"
+"PO-Revision-Date: 2026-04-15 21:46+0000\n"
+"Last-Translator: Eirik Hanssen <eirikh@oslomet.no>\n"
 "Language-Team: Norwegian Bokmål <http://translate.pkp.sfu.ca/projects/"
 "plugins/citation-style-language-plugin/nb_NO/>\n"
-"Language: nb\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -94,16 +95,14 @@ msgstr ""
 "Tillat lesere å få en referanse for en publisert bok i et av flere formater "
 "støttet av Citation Style Language."
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationFormatsPrimaryDescription.omp"
 msgstr ""
-"Velg siteringsformatet du ønsker å vise som standard på en boks landingside."
+"Velg siteringsformatet du ønsker å vise som standard på bokens landingside."
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationUserGroupsDescription"
 msgstr ""
 "I noen siteringsstiler må bidragsyterne identifiseres i samsvar med sin "
-"rolle. Vennligst angi rollene som passer."
+"rolle. Velg rollene som passer."
 
 msgid "plugins.generic.citationStyleLanguage.settings.citationChooseAuthor"
 msgstr "Forfattere"
@@ -120,18 +119,14 @@ msgstr "Oversettere"
 msgid "plugins.generic.citationStyleLanguage.settings.citationChooseChapterAuthor"
 msgstr "Kapittelforfattere"
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationOptionChooseAuthor"
 msgstr "Velg rollene som skal identifiseres som forfattere."
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationOptionChooseEditor"
 msgstr "Velg rollene som skal identifiseres som redaktører."
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationOptionChooseTranslator"
 msgstr "Velg rollene som skal identifiseres som oversettere."
 
-#, fuzzy
 msgid "plugins.generic.citationStyleLanguage.settings.citationOptionChooseChapterAuthor"
 msgstr "Velg rollene som skal identifiseres som kapittelforfattere."

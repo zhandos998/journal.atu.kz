@@ -1,0 +1,98 @@
+services:
+  ojs:
+    build:
+      context: .
+      dockerfile: docker/ojs.Dockerfile
+    image: local/ojs-atu:3.5.0.5
+    container_name: journal-ojs-app
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8120:80"
+    volumes:
+      - ./config/config.inc.php:/var/www/html/config.inc.php:ro
+      - ./docker/apache-ojs.conf:/etc/apache2/conf-available/ojs-hardening.conf:ro
+      - ./ojs-files:/var/www/files
+      - ./public:/var/www/html/public
+      - ./cache:/var/www/html/cache
+    networks:
+      - journal
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -H 'Host: journal.atu.kz' -H 'X-Forwarded-Proto: https' http://127.0.0.1/index.php/index/index >/dev/null || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 10
+
+  ojs-scheduler:
+    image: local/ojs-atu:3.5.0.5
+    container_name: journal-ojs-scheduler
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    user: "33:33"
+    command: ["/usr/local/bin/ojs-scheduler.sh"]
+    volumes:
+      - ./config/config.inc.php:/var/www/html/config.inc.php:ro
+      - ./ojs-files:/var/www/files
+      - ./public:/var/www/html/public
+      - ./cache:/var/www/html/cache
+    networks:
+      - journal
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      disable: true
+
+  phpmyadmin:
+    image: phpmyadmin:5.2-apache
+    container_name: journal-ojs-phpmyadmin
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 0
+      PMA_ABSOLUTE_URI: https://journal.atu.kz/phpmyadmin/
+      UPLOAD_LIMIT: 128M
+    ports:
+      - "127.0.0.1:8121:80"
+    networks:
+      - journal
+    security_opt:
+      - no-new-privileges:true
+
+  db:
+    image: mysql:8.4
+    container_name: journal-ojs-db
+    restart: unless-stopped
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --sql-mode=NO_ENGINE_SUBSTITUTION
+      - --skip-log-bin
+    environment:
+      MYSQL_DATABASE: ${OJS_DB_NAME}
+      MYSQL_USER: ${OJS_DB_USER}
+      MYSQL_PASSWORD: ${OJS_DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+    volumes:
+      - ./db:/var/lib/mysql
+    networks:
+      - journal
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p\"$${MYSQL_ROOT_PASSWORD}\" --silent"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+    security_opt:
+      - no-new-privileges:true
+
+networks:
+  journal:

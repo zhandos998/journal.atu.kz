@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-21 23:45+0000\n"
+"PO-Revision-Date: 2026-05-06 17:29+0000\n"
 "Last-Translator: Mahmut  VURAL <mahmut.vural@outlook.com>\n"
 "Language-Team: Kyrgyz <http://translate.pkp.sfu.ca/projects/plugins/webFeed/"
 "ky/>\n"
@@ -47,3 +47,21 @@ msgid "plugins.generic.webfeed.settings.includeIdentifiers"
 msgstr ""
 "Түрмөктүн корутундусуна идентификаторлор (ISBN, ачкыч сөздөр, категориялар ж."
 "б.) кошулсунбу?"
+
+msgid "plugins.generic.webfeed.settings.currentIssue"
+msgstr "Түздөгү жарыяланган чыгарылыштагы объекттерди көрсөт."
+
+msgid "plugins.generic.webfeed.settings.recent"
+msgstr "Акыркы жарыяланган материалдардын белгилүү санын көрсөт."
+
+msgid "plugins.generic.webfeed.settings.recentArticles"
+msgstr "Көрсөтүлүүчү жарыялоолордун саны"
+
+msgid "plugins.generic.webfeed.settings.recentItemsRequired"
+msgstr "Акыркы жарыяланган нерселер үчүн оң бүтүн санды киргизиңиз."
+
+msgid "plugins.generic.webfeed.atom.altText"
+msgstr "Atom логосу"
+
+msgid "plugins.generic.webfeed.rss1.altText"
+msgstr "RSS1 логосу"

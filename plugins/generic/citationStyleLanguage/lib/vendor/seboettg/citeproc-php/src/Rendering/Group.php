@@ -93,6 +93,8 @@ class Group implements Rendering, HasParent
         foreach ($this->children as $child) {
             $elementCount++;
 
+            $text = $child->render($data, $citationNumber);
+
             if (($child instanceof Text)
                 && ($child->getSource() == 'term'
                 || $child->getSource() == 'value')
@@ -100,7 +102,7 @@ class Group implements Rendering, HasParent
                 ++$terms;
             }
 
-            if (($child instanceof Label)) {
+            if (($child instanceof Label) && !empty($text)) {
                 ++$terms;
             }
             if (method_exists($child, "getSource") && $child->getSource() == 'variable'
@@ -110,10 +112,13 @@ class Group implements Rendering, HasParent
                 ++$variables;
             }
 
-            $text = $child->render($data, $citationNumber);
             $delimiter = $this->delimiter;
             if (!empty($text)) {
+                // Do not modify text parts here; consecutive punctuation
+                // is handled in implodeAndPreventConsecutiveChars
+                /*
                 if ($delimiter && ($elementCount < count($this->children))) {
+
                     //check to see if the delimiter is already the last character of the text string
                     //if so, remove it so we don't have two of them when the group will be merged
                     $stext = strip_tags(trim($text));
@@ -123,6 +128,7 @@ class Group implements Rendering, HasParent
                         $text = str_replace('----REPLACE----', $stext, $text);
                     }
                 }
+                */
                 $textParts[] = $text;
 
                 if (method_exists($child, "getSource") && $child->getSource() == 'variable'
@@ -164,11 +170,11 @@ class Group implements Rendering, HasParent
         }
 
         if ($variables && !$haveVariables) {
-            return ""; // there has to be at least one other none empty value before the term is output
+            return ""; // At least one non-empty value is required before the term is output
         }
 
         if (count($textParts) == $terms) {
-            return ""; // there has to be at least one other none empty value before the term is output
+            return ""; // At least one non-empty value is required before the term is output
         }
 
         $text = StringHelper::implodeAndPreventConsecutiveChars($this->delimiter, $textParts);

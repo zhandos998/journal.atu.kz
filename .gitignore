@@ -1,9 +1,48 @@
+# Runtime/secrets
+.env
+.env.*
+!/env.example
 /config.inc.php
+/config/
+/db/
 /cache/
 /ojs-files/
+/logs/
+/backups/
+/import/
+/quarantine/
+/phpmyadmin-basic-auth.txt
+
+# Dumps/archives/backups
 /ojs_atu_kz.sql
+*.sql
+*.dump
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.bak
+*.bak-*
+*.old
+*.orig
 *.log
-.env
+
+# Local Codex/deploy scratch data
+/.codex_deploy/
+
+# User-uploaded web files: keep already tracked assets, ignore new uploads
+/public/*
+!/public/index.html
+!/public/journals/
+!/public/site/
+!/public/*.jpg
+!/public/*.jpeg
+!/public/*.png
+!/public/*.gif
+!/public/*.svg
+!/public/*.webp
+
+# IDE/OS
 .idea/
 .vscode/
 .DS_Store

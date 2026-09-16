@@ -27,7 +27,9 @@
         }
     },
     "require": {
-        "seboettg/collection": ">=v3.1.0",
+        "citation-style-language/styles": "v0.0.*",
+        "citation-style-language/locales": "v0.0.*",
+        "seboettg/collection": "^3.1",
         "myclabs/php-enum": "^1.8",
         "ext-simplexml": "*",
         "ext-json": "*",
@@ -46,14 +48,10 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "./install.sh styles",
-            "./install.sh locales",
             "@compile-test-cases",
             "chmod +x vendor/bin/phpunit"
         ],
         "post-update-cmd": [
-            "./install.sh styles",
-            "./install.sh locales",
             "@compile-test-cases",
             "chmod +x vendor/bin/phpunit"
         ],

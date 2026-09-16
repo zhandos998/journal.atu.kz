@@ -1,10 +1,10 @@
 # Hovhannes Harutyunyan <hharutyunyan@gmail.com>, 2022.
-# Tigran Zargaryan <tigran@flib.sci.am>, 2022, 2023, 2024, 2025.
+# Tigran Zargaryan <tigran@flib.sci.am>, 2022, 2023, 2024, 2025, 2026.
 # Artashes Mirzoyan <amirzoyan@sci.am>, 2022.
 # Martin Brändle <martin.braendle@uzh.ch>, 2023.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 14:02+0000\n"
+"PO-Revision-Date: 2026-06-25 05:13+0000\n"
 "Last-Translator: Tigran Zargaryan <tigran@flib.sci.am>\n"
 "Language-Team: Armenian <http://translate.pkp.sfu.ca/projects/pkp-lib/"
 "manager/hy/>\n"
@@ -1354,8 +1354,8 @@ msgstr ""
 
 msgid "manager.sections.form.deactivateSection"
 msgstr ""
-"Ապաակտիվացրեք այս բաժինը և թույլ մի տվեք, որ դրանում նոր ներկայացումներ "
-"արվեն:"
+"Նշեք այս բաժինը որպես ոչ ակտիվ և թույլ մի տվեք, որ դրանում նոր "
+"ներկայացումներ արվեն:"
 
 msgid "manager.sections.confirmDeactivateSection"
 msgstr "Վստա՞հ եք, որ ցանկանում եք անջատել այս բաժինը:"
@@ -3958,3 +3958,6 @@ msgid "manager.categories.form.removeCoverImageFileNotFound"
 msgstr ""
 "Շապիկի պատկերի և մանրապատկերի նիշքերը չգտնվեցին։ Հնարավոր է՝ դրանք արդեն "
 "ջնջված լինեն։ Փորձեք վերաբեռնել էջը։"
+
+msgid "doi.manager.settings.doiSuffixPattern.required"
+msgstr "DOI վերջածանցի ձևանմուշը պարտադիր է։"
